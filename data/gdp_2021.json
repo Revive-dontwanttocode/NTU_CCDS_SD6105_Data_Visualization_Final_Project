@@ -1,0 +1,1486 @@
+[
+  {
+    "Code": 4,
+    "Region": "Afghanistan",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 14939.0
+  },
+  {
+    "Code": 8,
+    "Region": "Albania",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 18260.0
+  },
+  {
+    "Code": 12,
+    "Region": "Algeria",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 163473.0
+  },
+  {
+    "Code": 20,
+    "Region": "Andorra",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3325.0
+  },
+  {
+    "Code": 24,
+    "Region": "Angola",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 70533.0
+  },
+  {
+    "Code": 660,
+    "Region": "Anguilla",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 303.0
+  },
+  {
+    "Code": 28,
+    "Region": "Antigua and Barbuda",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1421.0
+  },
+  {
+    "Code": 32,
+    "Region": "Argentina",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 487227.0
+  },
+  {
+    "Code": 51,
+    "Region": "Armenia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 13861.0
+  },
+  {
+    "Code": 533,
+    "Region": "Aruba",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3126.0
+  },
+  {
+    "Code": 36,
+    "Region": "Australia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1734532.0
+  },
+  {
+    "Code": 40,
+    "Region": "Austria",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 480368.0
+  },
+  {
+    "Code": 31,
+    "Region": "Azerbaijan",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 54622.0
+  },
+  {
+    "Code": 44,
+    "Region": "Bahamas",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 11209.0
+  },
+  {
+    "Code": 48,
+    "Region": "Bahrain",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 38869.0
+  },
+  {
+    "Code": 50,
+    "Region": "Bangladesh",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 414907.0
+  },
+  {
+    "Code": 52,
+    "Region": "Barbados",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4844.0
+  },
+  {
+    "Code": 112,
+    "Region": "Belarus",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 68206.0
+  },
+  {
+    "Code": 56,
+    "Region": "Belgium",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 594104.0
+  },
+  {
+    "Code": 84,
+    "Region": "Belize",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2492.0
+  },
+  {
+    "Code": 204,
+    "Region": "Benin",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 17688.0
+  },
+  {
+    "Code": 60,
+    "Region": "Bermuda",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 7231.0
+  },
+  {
+    "Code": 64,
+    "Region": "Bhutan",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2381.0
+  },
+  {
+    "Code": 68,
+    "Region": "Bolivia (Plurin. State of)",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 40408.0
+  },
+  {
+    "Code": 70,
+    "Region": "Bosnia and Herzegovina",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 23365.0
+  },
+  {
+    "Code": 72,
+    "Region": "Botswana",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 17615.0
+  },
+  {
+    "Code": 76,
+    "Region": "Brazil",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1608981.0
+  },
+  {
+    "Code": 92,
+    "Region": "British Virgin Islands",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1539.0
+  },
+  {
+    "Code": 96,
+    "Region": "Brunei Darussalam",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 14006.0
+  },
+  {
+    "Code": 100,
+    "Region": "Bulgaria",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 84058.0
+  },
+  {
+    "Code": 854,
+    "Region": "Burkina Faso",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 19738.0
+  },
+  {
+    "Code": 108,
+    "Region": "Burundi",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3900.0
+  },
+  {
+    "Code": 132,
+    "Region": "Cabo Verde",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1936.0
+  },
+  {
+    "Code": 116,
+    "Region": "Cambodia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 26669.0
+  },
+  {
+    "Code": 120,
+    "Region": "Cameroon",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 45368.0
+  },
+  {
+    "Code": 124,
+    "Region": "Canada",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1988336.0
+  },
+  {
+    "Code": 136,
+    "Region": "Cayman Islands",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 5809.0
+  },
+  {
+    "Code": 140,
+    "Region": "Central African Republic",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2518.0
+  },
+  {
+    "Code": 148,
+    "Region": "Chad",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 16410.0
+  },
+  {
+    "Code": 152,
+    "Region": "Chile",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 317059.0
+  },
+  {
+    "Code": 156,
+    "Region": "China",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 17734131.0
+  },
+  {
+    "Code": 344,
+    "Region": "China, Hong Kong SAR",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 369174.0
+  },
+  {
+    "Code": 446,
+    "Region": "China, Macao SAR",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 29905.0
+  },
+  {
+    "Code": 170,
+    "Region": "Colombia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 314464.0
+  },
+  {
+    "Code": 174,
+    "Region": "Comoros",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1340.0
+  },
+  {
+    "Code": 178,
+    "Region": "Congo",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 12841.0
+  },
+  {
+    "Code": 184,
+    "Region": "Cook Islands",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 328.0
+  },
+  {
+    "Code": 188,
+    "Region": "Costa Rica",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 64282.0
+  },
+  {
+    "Code": 384,
+    "Region": "C\u9b4ce d\u625evoire",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 69765.0
+  },
+  {
+    "Code": 191,
+    "Region": "Croatia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 68955.0
+  },
+  {
+    "Code": 192,
+    "Region": "Cuba",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 126694.0
+  },
+  {
+    "Code": 531,
+    "Region": "Cura\u93f0o",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2700.0
+  },
+  {
+    "Code": 196,
+    "Region": "Cyprus",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 28408.0
+  },
+  {
+    "Code": 203,
+    "Region": "Czechia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 281778.0
+  },
+  {
+    "Code": 408,
+    "Region": "Dem. People's Rep. Korea",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 16750.0
+  },
+  {
+    "Code": 180,
+    "Region": "Dem. Rep. of the Congo",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 52850.0
+  },
+  {
+    "Code": 208,
+    "Region": "Denmark",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 398303.0
+  },
+  {
+    "Code": 262,
+    "Region": "Djibouti",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3701.0
+  },
+  {
+    "Code": 212,
+    "Region": "Dominica",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 548.0
+  },
+  {
+    "Code": 214,
+    "Region": "Dominican Republic",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 94243.0
+  },
+  {
+    "Code": 218,
+    "Region": "Ecuador",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 106166.0
+  },
+  {
+    "Code": 818,
+    "Region": "Egypt",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 425906.0
+  },
+  {
+    "Code": 222,
+    "Region": "El Salvador",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 28737.0
+  },
+  {
+    "Code": 226,
+    "Region": "Equatorial Guinea",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 12431.0
+  },
+  {
+    "Code": 232,
+    "Region": "Eritrea",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2255.0
+  },
+  {
+    "Code": 233,
+    "Region": "Estonia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 37191.0
+  },
+  {
+    "Code": 748,
+    "Region": "Eswatini",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4732.0
+  },
+  {
+    "Code": 231,
+    "Region": "Ethiopia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 99269.0
+  },
+  {
+    "Code": 242,
+    "Region": "Fiji",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4296.0
+  },
+  {
+    "Code": 246,
+    "Region": "Finland",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 297302.0
+  },
+  {
+    "Code": 250,
+    "Region": "France",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2957880.0
+  },
+  {
+    "Code": 258,
+    "Region": "French Polynesia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 6055.0
+  },
+  {
+    "Code": 266,
+    "Region": "Gabon",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 18521.0
+  },
+  {
+    "Code": 270,
+    "Region": "Gambia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2038.0
+  },
+  {
+    "Code": 268,
+    "Region": "Georgia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 18696.0
+  },
+  {
+    "Code": 276,
+    "Region": "Germany",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4259935.0
+  },
+  {
+    "Code": 288,
+    "Region": "Ghana",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 79083.0
+  },
+  {
+    "Code": 300,
+    "Region": "Greece",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 214874.0
+  },
+  {
+    "Code": 304,
+    "Region": "Greenland",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3273.0
+  },
+  {
+    "Code": 308,
+    "Region": "Grenada",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1115.0
+  },
+  {
+    "Code": 320,
+    "Region": "Guatemala",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 85986.0
+  },
+  {
+    "Code": 324,
+    "Region": "Guinea",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 16036.0
+  },
+  {
+    "Code": 624,
+    "Region": "Guinea-Bissau",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1563.0
+  },
+  {
+    "Code": 328,
+    "Region": "Guyana",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 8044.0
+  },
+  {
+    "Code": 332,
+    "Region": "Haiti",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 19044.0
+  },
+  {
+    "Code": 340,
+    "Region": "Honduras",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 28489.0
+  },
+  {
+    "Code": 348,
+    "Region": "Hungary",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 181848.0
+  },
+  {
+    "Code": 352,
+    "Region": "Iceland",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 25602.0
+  },
+  {
+    "Code": 356,
+    "Region": "India",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3201471.0
+  },
+  {
+    "Code": 360,
+    "Region": "Indonesia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1186093.0
+  },
+  {
+    "Code": 364,
+    "Region": "Iran (Islamic Republic of)",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 594892.0
+  },
+  {
+    "Code": 368,
+    "Region": "Iraq",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 204004.0
+  },
+  {
+    "Code": 372,
+    "Region": "Ireland",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 504183.0
+  },
+  {
+    "Code": 376,
+    "Region": "Israel",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 481591.0
+  },
+  {
+    "Code": 380,
+    "Region": "Italy",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2107703.0
+  },
+  {
+    "Code": 388,
+    "Region": "Jamaica",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 14658.0
+  },
+  {
+    "Code": 392,
+    "Region": "Japan",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4940878.0
+  },
+  {
+    "Code": 400,
+    "Region": "Jordan",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 45244.0
+  },
+  {
+    "Code": 398,
+    "Region": "Kazakhstan",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 193018.0
+  },
+  {
+    "Code": 404,
+    "Region": "Kenya",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 110347.0
+  },
+  {
+    "Code": 296,
+    "Region": "Kiribati",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 227.0
+  },
+  {
+    "Code": 412,
+    "Region": "Kosovo",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 9412.0
+  },
+  {
+    "Code": 414,
+    "Region": "Kuwait",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 136642.0
+  },
+  {
+    "Code": 417,
+    "Region": "Kyrgyzstan",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 8741.0
+  },
+  {
+    "Code": 418,
+    "Region": "Lao People's Dem. Rep.",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 19074.0
+  },
+  {
+    "Code": 428,
+    "Region": "Latvia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 39854.0
+  },
+  {
+    "Code": 422,
+    "Region": "Lebanon",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 37945.0
+  },
+  {
+    "Code": 426,
+    "Region": "Lesotho",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2373.0
+  },
+  {
+    "Code": 430,
+    "Region": "Liberia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2445.0
+  },
+  {
+    "Code": 434,
+    "Region": "Libya",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 39006.0
+  },
+  {
+    "Code": 438,
+    "Region": "Liechtenstein",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 6608.0
+  },
+  {
+    "Code": 440,
+    "Region": "Lithuania",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 66445.0
+  },
+  {
+    "Code": 442,
+    "Region": "Luxembourg",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 85506.0
+  },
+  {
+    "Code": 450,
+    "Region": "Madagascar",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 14450.0
+  },
+  {
+    "Code": 454,
+    "Region": "Malawi",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 12199.0
+  },
+  {
+    "Code": 458,
+    "Region": "Malaysia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 372702.0
+  },
+  {
+    "Code": 462,
+    "Region": "Maldives",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 5406.0
+  },
+  {
+    "Code": 466,
+    "Region": "Mali",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 19157.0
+  },
+  {
+    "Code": 470,
+    "Region": "Malta",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 17721.0
+  },
+  {
+    "Code": 584,
+    "Region": "Marshall Islands",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 257.0
+  },
+  {
+    "Code": 478,
+    "Region": "Mauritania",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 9996.0
+  },
+  {
+    "Code": 480,
+    "Region": "Mauritius",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 11525.0
+  },
+  {
+    "Code": 484,
+    "Region": "Mexico",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1272839.0
+  },
+  {
+    "Code": 583,
+    "Region": "Micronesia (Fed. States of)",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 404.0
+  },
+  {
+    "Code": 492,
+    "Region": "Monaco",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 8596.0
+  },
+  {
+    "Code": 496,
+    "Region": "Mongolia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 15098.0
+  },
+  {
+    "Code": 499,
+    "Region": "Montenegro",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 5809.0
+  },
+  {
+    "Code": 500,
+    "Region": "Montserrat",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 72.0
+  },
+  {
+    "Code": 504,
+    "Region": "Morocco",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 142867.0
+  },
+  {
+    "Code": 508,
+    "Region": "Mozambique",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 15777.0
+  },
+  {
+    "Code": 104,
+    "Region": "Myanmar",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 58582.0
+  },
+  {
+    "Code": 516,
+    "Region": "Namibia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 12236.0
+  },
+  {
+    "Code": 520,
+    "Region": "Nauru",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 155.0
+  },
+  {
+    "Code": 524,
+    "Region": "Nepal",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 36207.0
+  },
+  {
+    "Code": 528,
+    "Region": "Netherlands (Kingdom of the)",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1012847.0
+  },
+  {
+    "Code": 540,
+    "Region": "New Caledonia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 10071.0
+  },
+  {
+    "Code": 554,
+    "Region": "New Zealand",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 250451.0
+  },
+  {
+    "Code": 558,
+    "Region": "Nicaragua",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 14013.0
+  },
+  {
+    "Code": 562,
+    "Region": "Niger",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 14915.0
+  },
+  {
+    "Code": 566,
+    "Region": "Nigeria",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 430923.0
+  },
+  {
+    "Code": 807,
+    "Region": "North Macedonia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 13881.0
+  },
+  {
+    "Code": 578,
+    "Region": "Norway",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 482175.0
+  },
+  {
+    "Code": 512,
+    "Region": "Oman",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 88192.0
+  },
+  {
+    "Code": 586,
+    "Region": "Pakistan",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 342501.0
+  },
+  {
+    "Code": 585,
+    "Region": "Palau",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 218.0
+  },
+  {
+    "Code": 591,
+    "Region": "Panama",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 63605.0
+  },
+  {
+    "Code": 598,
+    "Region": "Papua New Guinea",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 26595.0
+  },
+  {
+    "Code": 600,
+    "Region": "Paraguay",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 40458.0
+  },
+  {
+    "Code": 604,
+    "Region": "Peru",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 223252.0
+  },
+  {
+    "Code": 608,
+    "Region": "Philippines",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 394086.0
+  },
+  {
+    "Code": 616,
+    "Region": "Poland",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 679442.0
+  },
+  {
+    "Code": 620,
+    "Region": "Portugal",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 253663.0
+  },
+  {
+    "Code": 630,
+    "Region": "Puerto Rico",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 106526.0
+  },
+  {
+    "Code": 634,
+    "Region": "Qatar",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 179571.0
+  },
+  {
+    "Code": 410,
+    "Region": "Republic of Korea",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1810966.0
+  },
+  {
+    "Code": 498,
+    "Region": "Republic of Moldova",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 13680.0
+  },
+  {
+    "Code": 642,
+    "Region": "Romania",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 284086.0
+  },
+  {
+    "Code": 643,
+    "Region": "Russian Federation",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1778782.0
+  },
+  {
+    "Code": 646,
+    "Region": "Rwanda",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 11070.0
+  },
+  {
+    "Code": 659,
+    "Region": "Saint Kitts and Nevis",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 861.0
+  },
+  {
+    "Code": 662,
+    "Region": "Saint Lucia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1765.0
+  },
+  {
+    "Code": 670,
+    "Region": "Saint Vincent & Grenadines",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 881.0
+  },
+  {
+    "Code": 882,
+    "Region": "Samoa",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 857.0
+  },
+  {
+    "Code": 674,
+    "Region": "San Marino",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1702.0
+  },
+  {
+    "Code": 678,
+    "Region": "Sao Tome and Principe",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 555.0
+  },
+  {
+    "Code": 682,
+    "Region": "Saudi Arabia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 833541.0
+  },
+  {
+    "Code": 686,
+    "Region": "Senegal",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 27625.0
+  },
+  {
+    "Code": 688,
+    "Region": "Serbia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 63068.0
+  },
+  {
+    "Code": 690,
+    "Region": "Seychelles",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1287.0
+  },
+  {
+    "Code": 694,
+    "Region": "Sierra Leone",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4249.0
+  },
+  {
+    "Code": 702,
+    "Region": "Singapore",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 396992.0
+  },
+  {
+    "Code": 534,
+    "Region": "Sint Maarten (Dutch part)",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1154.0
+  },
+  {
+    "Code": 703,
+    "Region": "Slovakia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 116527.0
+  },
+  {
+    "Code": 705,
+    "Region": "Slovenia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 61749.0
+  },
+  {
+    "Code": 90,
+    "Region": "Solomon Islands",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1632.0
+  },
+  {
+    "Code": 706,
+    "Region": "Somalia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 7628.0
+  },
+  {
+    "Code": 710,
+    "Region": "South Africa",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 419016.0
+  },
+  {
+    "Code": 728,
+    "Region": "South Sudan",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4304.0
+  },
+  {
+    "Code": 724,
+    "Region": "Spain",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1427381.0
+  },
+  {
+    "Code": 144,
+    "Region": "Sri Lanka",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 85309.0
+  },
+  {
+    "Code": 275,
+    "Region": "State of Palestine",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 18037.0
+  },
+  {
+    "Code": 729,
+    "Region": "Sudan",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 35867.0
+  },
+  {
+    "Code": 740,
+    "Region": "Suriname",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3224.0
+  },
+  {
+    "Code": 752,
+    "Region": "Sweden",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 635664.0
+  },
+  {
+    "Code": 756,
+    "Region": "Switzerland",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 812867.0
+  },
+  {
+    "Code": 760,
+    "Region": "Syrian Arab Republic",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 19719.0
+  },
+  {
+    "Code": 762,
+    "Region": "Tajikistan",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 8746.0
+  },
+  {
+    "Code": 764,
+    "Region": "Thailand",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 505982.0
+  },
+  {
+    "Code": 626,
+    "Region": "Timor-Leste",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2004.0
+  },
+  {
+    "Code": 768,
+    "Region": "Togo",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 8160.0
+  },
+  {
+    "Code": 776,
+    "Region": "Tonga",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 472.0
+  },
+  {
+    "Code": 780,
+    "Region": "Trinidad and Tobago",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 24460.0
+  },
+  {
+    "Code": 788,
+    "Region": "Tunisia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 46687.0
+  },
+  {
+    "Code": 792,
+    "Region": "T\u9ef5kiye",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 819034.0
+  },
+  {
+    "Code": 795,
+    "Region": "Turkmenistan",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 53954.0
+  },
+  {
+    "Code": 796,
+    "Region": "Turks and Caicos Islands",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 943.0
+  },
+  {
+    "Code": 798,
+    "Region": "Tuvalu",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 60.0
+  },
+  {
+    "Code": 800,
+    "Region": "Uganda",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 42661.0
+  },
+  {
+    "Code": 804,
+    "Region": "Ukraine",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 200086.0
+  },
+  {
+    "Code": 784,
+    "Region": "United Arab Emirates",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 405468.0
+  },
+  {
+    "Code": 826,
+    "Region": "United Kingdom",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3131378.0
+  },
+  {
+    "Code": 834,
+    "Region": "United Rep. of Tanzania",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 70297.0
+  },
+  {
+    "Code": 840,
+    "Region": "United States of America",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 23315081.0
+  },
+  {
+    "Code": 858,
+    "Region": "Uruguay",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 59318.0
+  },
+  {
+    "Code": 860,
+    "Region": "Uzbekistan",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 69239.0
+  },
+  {
+    "Code": 548,
+    "Region": "Vanuatu",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 981.0
+  },
+  {
+    "Code": 862,
+    "Region": "Venezuela (Boliv. Rep. of)",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 111813.0
+  },
+  {
+    "Code": 704,
+    "Region": "Viet Nam",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 366138.0
+  },
+  {
+    "Code": 887,
+    "Region": "Yemen",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 9947.0
+  },
+  {
+    "Code": 894,
+    "Region": "Zambia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 21313.0
+  },
+  {
+    "Code": 836,
+    "Region": "Zanzibar",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2080.0
+  },
+  {
+    "Code": 716,
+    "Region": "Zimbabwe",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 24118.0
+  }
+]
