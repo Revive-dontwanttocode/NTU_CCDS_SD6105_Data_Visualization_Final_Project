@@ -11,7 +11,10 @@
   "author": "Chih-Hsi Chen",
   "license": "ISC",
   "dependencies": {
-    "d3": "^7.9.0"
+    "d3": "^7.9.0",
+    "d3-geo-projection": "^4.0.0",
+    "topojson": "^3.0.2",
+    "world-atlas": "^2.0.2"
   },
   "devDependencies": {
     "vite": "^5.4.10"

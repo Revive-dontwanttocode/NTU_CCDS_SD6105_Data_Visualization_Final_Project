@@ -1,0 +1,11 @@
+body {
+    margin: 0px;
+    overflow: hidden;
+    background-color: darkblue;
+}
+
+path {
+    fill: lightgreen;
+    stroke: black;
+    stroke-opacity: 0.4;
+}
