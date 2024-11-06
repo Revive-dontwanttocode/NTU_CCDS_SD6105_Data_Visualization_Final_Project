@@ -1,0 +1,1178 @@
+[
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 9320865.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 12484521.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 21128489.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 26933005.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 33136914.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 32800513.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 37498914.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 2676.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 3137.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 5006.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 6040.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 7160.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 7033.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 7989.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 10027857.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 15686960.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 20846016.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 26933005.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 32244519.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 31922883.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 33916398.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.5
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.3
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 7.8
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.9
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.7
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -1.0
+  },
+  {
+    "Code": 142,
+    "Region": "Asia",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.2
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 41632.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 93155.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 231077.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 321586.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 304686.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 293026.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 333699.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 768.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 1573.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 3632.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 4661.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 4143.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 3921.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 4397.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 97467.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 169983.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 245266.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 321586.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 378175.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 373495.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 393233.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -6.5
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 9.0
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 8.7
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.1
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.1
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -1.2
+  },
+  {
+    "Code": 143,
+    "Region": "Central Asia",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.3
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 7283959.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 8636076.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 13712623.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 17889125.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 22114696.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 22441091.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 25691483.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 5054.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 5618.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 8663.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 10966.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 13322.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 13496.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 15446.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 6641899.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 10311021.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 13827799.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 17889125.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 21513674.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 21585853.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 22974848.0
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.5
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.2
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 8.1
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.9
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.1
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.3
+  },
+  {
+    "Code": 30,
+    "Region": "Eastern Asia",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.4
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 707750.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 964496.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2024587.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2528008.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3250764.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3086207.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3342329.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 1462.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 1715.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 3376.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 3971.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 4896.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 4605.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 4946.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1018264.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1490186.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1972753.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2528008.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3071900.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2953489.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3051055.0
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 7.8
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.7
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 8.2
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.8
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.4
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -3.9
+  },
+  {
+    "Code": 35,
+    "Region": "South-eastern Asia",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.3
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 624719.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1272672.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2593394.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3218870.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4156702.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4023206.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4698012.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 468.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 790.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 1494.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 1733.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 2134.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 2043.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 2361.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1046343.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1799051.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2459324.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3218870.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 4001500.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3834870.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 4125616.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.1
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 7.0
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 7.6
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.4
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.1
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -4.2
+  },
+  {
+    "Code": 34,
+    "Region": "Southern Asia",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 7.6
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 662806.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1518121.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2566809.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2975416.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3310066.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2956983.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3433391.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 3894.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 7248.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 10772.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 11253.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 11706.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 10329.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 11865.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1223884.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1916719.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2340873.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2975416.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3279270.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3175176.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3371648.0
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.9
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.5
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.7
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.8
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.6
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -3.2
+  },
+  {
+    "Code": 145,
+    "Region": "Western Asia",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.2
+  }
+]

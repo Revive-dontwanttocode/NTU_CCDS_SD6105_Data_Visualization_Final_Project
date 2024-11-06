@@ -2,9 +2,35 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Title</title>
+  <title>Asia Regional GDP Data</title>
+  <style>
+      /* 添加样式用于高亮悬停效果 */
+      .bar:hover {
+          opacity: 0.7;
+      }
+
+      /* 提示框样式 */
+      .tooltip {
+          position: absolute;
+          background-color: white;
+          border: 1px solid #ccc;
+          padding: 5px;
+          font-size: 12px;
+          pointer-events: none;
+          opacity: 0;
+          transition: opacity 0.3s;
+      }
+  </style>
 </head>
 <body>
 
+<div id="region_stacked_barchart"></div>
+<div id="tooltip" class="tooltip"></div>
 </body>
+
+<script type="module">
+  import {initStackedBarChartAsia} from './bundle.js'
+
+  initStackedBarChartAsia();
+</script>
 </html>
