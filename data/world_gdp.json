@@ -1,0 +1,198 @@
+[
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 31269041.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 47775404.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 66578017.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 75283835.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 87728744.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 85311030.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 96698005.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 5446.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 7287.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 9533.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 10140.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 11301.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 10883.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 12229.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 40355817.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 56455926.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 64907975.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 75283835.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 84504873.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 81844942.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 86675773.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.1
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.0
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.5
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.1
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.5
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -3.1
+  },
+  {
+    "Code": 1,
+    "Region\/Country\/Area": "Total, all countries or areas",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.9
+  }
+]

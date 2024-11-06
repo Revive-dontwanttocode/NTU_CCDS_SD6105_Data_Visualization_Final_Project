@@ -1,19 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Africa Chart</title>
+  <meta charset="UTF-8">
+  <title>GDP Bubble Chart</title>
 </head>
+<style>
+    .bubbles {
+        stroke-width: 2px;
+        stroke: white;
+    }
+
+    .bubbles:hover {
+        stroke: black;
+    }
+</style>
 <body>
 
-<div id="grouped_viz"></div>
+<div id="my_dataviz"></div>
 
-</body>
+<select id="selectButton">
+  <option value="GDP_current">GDP (current)</option>
+  <option value="GDP_constant">GDP (constant)</option>
+  <option value="growth">Growth Rate</option>
+  <option value="GDP_per_capita">GDP per Capita</option>
+</select>
+<div id="gdp_per_capita"></div>
 
 <script type="module">
-    import {drawGroupedBarChart} from './script.js'
+  import {initBubbleChart, initLineChart} from "./bundle";
 
-    drawGroupedBarChart()
+  initBubbleChart();
+
+  initLineChart();
 </script>
 
+</body>
 </html>
