@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Load CSV Data</title>
+</head>
+<body>
+<div>Test loading .csv file.</div>
+</body>
+
+<script type="module">
+  import {loadCSVData, loadCSVDataAsync} from './script.js';
+
+  const csvPath = '../../../data/csv/Africa_GDP_data.csv';
+  let csv_data = loadCSVData(csvPath)
+  for (let i = 0; i < csv_data.length; i++) {
+    console.log(csv_data.length);
+  }
+  console.log('==========================>')
+
+  console.log('Async loading data');
+  let asyncData = await loadCSVDataAsync(csvPath)
+  for (let i = 0; i < asyncData.length; i++) {
+    console.log(asyncData.length);
+  }
+</script>
+</html>

@@ -1,0 +1,197 @@
+﻿Code,Region/Country/Area,Year,Series,Value
+2,Africa,1995,GDP in current prices (millions of US dollars),604467
+2,Africa,2005,GDP in current prices (millions of US dollars),1170541
+2,Africa,2010,GDP in current prices (millions of US dollars),2032590
+2,Africa,2015,GDP in current prices (millions of US dollars),2407357
+2,Africa,2019,GDP in current prices (millions of US dollars),2571104
+2,Africa,2020,GDP in current prices (millions of US dollars),2443988
+2,Africa,2021,GDP in current prices (millions of US dollars),2726643
+2,Africa,1995,GDP per capita (US dollars),836
+2,Africa,2005,GDP per capita (US dollars),1263
+2,Africa,2010,GDP per capita (US dollars),1929
+2,Africa,2015,GDP per capita (US dollars),2007
+2,Africa,2019,GDP per capita (US dollars),1939
+2,Africa,2020,GDP per capita (US dollars),1799
+2,Africa,2021,GDP per capita (US dollars),1959
+2,Africa,1995,GDP in constant 2015 prices (millions of US dollars),984606
+2,Africa,2005,GDP in constant 2015 prices (millions of US dollars),1533871
+2,Africa,2010,GDP in constant 2015 prices (millions of US dollars),1995546
+2,Africa,2015,GDP in constant 2015 prices (millions of US dollars),2407357
+2,Africa,2019,GDP in constant 2015 prices (millions of US dollars),2672971
+2,Africa,2020,GDP in constant 2015 prices (millions of US dollars),2602636
+2,Africa,2021,GDP in constant 2015 prices (millions of US dollars),2738166
+2,Africa,1995,GDP real rates of growth (percent),2.8
+2,Africa,2005,GDP real rates of growth (percent),6.2
+2,Africa,2010,GDP real rates of growth (percent),5.9
+2,Africa,2015,GDP real rates of growth (percent),3.4
+2,Africa,2019,GDP real rates of growth (percent),2.4
+2,Africa,2020,GDP real rates of growth (percent),-2.6
+2,Africa,2021,GDP real rates of growth (percent),5.2
+15,Northern Africa,1995,GDP in current prices (millions of US dollars),207392
+15,Northern Africa,2005,GDP in current prices (millions of US dollars),376507
+15,Northern Africa,2010,GDP in current prices (millions of US dollars),646437
+15,Northern Africa,2015,GDP in current prices (millions of US dollars),772568
+15,Northern Africa,2019,GDP in current prices (millions of US dollars),764307
+15,Northern Africa,2020,GDP in current prices (millions of US dollars),762287
+15,Northern Africa,2021,GDP in current prices (millions of US dollars),853806
+15,Northern Africa,1995,GDP per capita (US dollars),1281
+15,Northern Africa,2005,GDP per capita (US dollars),1922
+15,Northern Africa,2010,GDP per capita (US dollars),3127
+15,Northern Africa,2015,GDP per capita (US dollars),3390
+15,Northern Africa,2019,GDP per capita (US dollars),3101
+15,Northern Africa,2020,GDP per capita (US dollars),3039
+15,Northern Africa,2021,GDP per capita (US dollars),3346
+15,Northern Africa,1995,GDP in constant 2015 prices (millions of US dollars),354910
+15,Northern Africa,2005,GDP in constant 2015 prices (millions of US dollars),557673
+15,Northern Africa,2010,GDP in constant 2015 prices (millions of US dollars),700055
+15,Northern Africa,2015,GDP in constant 2015 prices (millions of US dollars),772568
+15,Northern Africa,2019,GDP in constant 2015 prices (millions of US dollars),873924
+15,Northern Africa,2020,GDP in constant 2015 prices (millions of US dollars),839687
+15,Northern Africa,2021,GDP in constant 2015 prices (millions of US dollars),896364
+15,Northern Africa,1995,GDP real rates of growth (percent),2
+15,Northern Africa,2005,GDP real rates of growth (percent),6
+15,Northern Africa,2010,GDP real rates of growth (percent),5
+15,Northern Africa,2015,GDP real rates of growth (percent),3.7
+15,Northern Africa,2019,GDP real rates of growth (percent),1.6
+15,Northern Africa,2020,GDP real rates of growth (percent),-3.9
+15,Northern Africa,2021,GDP real rates of growth (percent),6.7
+202,Sub-Saharan Africa,1995,GDP in current prices (millions of US dollars),397075
+202,Sub-Saharan Africa,2005,GDP in current prices (millions of US dollars),794034
+202,Sub-Saharan Africa,2010,GDP in current prices (millions of US dollars),1386153
+202,Sub-Saharan Africa,2015,GDP in current prices (millions of US dollars),1634789
+202,Sub-Saharan Africa,2019,GDP in current prices (millions of US dollars),1806798
+202,Sub-Saharan Africa,2020,GDP in current prices (millions of US dollars),1681701
+202,Sub-Saharan Africa,2021,GDP in current prices (millions of US dollars),1872837
+202,Sub-Saharan Africa,1995,GDP per capita (US dollars),707
+202,Sub-Saharan Africa,2005,GDP per capita (US dollars),1087
+202,Sub-Saharan Africa,2010,GDP per capita (US dollars),1637
+202,Sub-Saharan Africa,2015,GDP per capita (US dollars),1683
+202,Sub-Saharan Africa,2019,GDP per capita (US dollars),1674
+202,Sub-Saharan Africa,2020,GDP per capita (US dollars),1518
+202,Sub-Saharan Africa,2021,GDP per capita (US dollars),1648
+202,Sub-Saharan Africa,1995,GDP in constant 2015 prices (millions of US dollars),629697
+202,Sub-Saharan Africa,2005,GDP in constant 2015 prices (millions of US dollars),976198
+202,Sub-Saharan Africa,2010,GDP in constant 2015 prices (millions of US dollars),1295491
+202,Sub-Saharan Africa,2015,GDP in constant 2015 prices (millions of US dollars),1634789
+202,Sub-Saharan Africa,2019,GDP in constant 2015 prices (millions of US dollars),1799047
+202,Sub-Saharan Africa,2020,GDP in constant 2015 prices (millions of US dollars),1762949
+202,Sub-Saharan Africa,2021,GDP in constant 2015 prices (millions of US dollars),1841801
+202,Sub-Saharan Africa,1995,GDP real rates of growth (percent),3.3
+202,Sub-Saharan Africa,2005,GDP real rates of growth (percent),6.3
+202,Sub-Saharan Africa,2010,GDP real rates of growth (percent),6.4
+202,Sub-Saharan Africa,2015,GDP real rates of growth (percent),3.2
+202,Sub-Saharan Africa,2019,GDP real rates of growth (percent),2.9
+202,Sub-Saharan Africa,2020,GDP real rates of growth (percent),-2
+202,Sub-Saharan Africa,2021,GDP real rates of growth (percent),4.5
+14,Eastern Africa,1995,GDP in current prices (millions of US dollars),71027
+14,Eastern Africa,2005,GDP in current prices (millions of US dollars),117083
+14,Eastern Africa,2010,GDP in current prices (millions of US dollars),235641
+14,Eastern Africa,2015,GDP in current prices (millions of US dollars),329095
+14,Eastern Africa,2019,GDP in current prices (millions of US dollars),426915
+14,Eastern Africa,2020,GDP in current prices (millions of US dollars),426039
+14,Eastern Africa,2021,GDP in current prices (millions of US dollars),459522
+14,Eastern Africa,1995,GDP per capita (US dollars),326
+14,Eastern Africa,2005,GDP per capita (US dollars),406
+14,Eastern Africa,2010,GDP per capita (US dollars),690
+14,Eastern Africa,2015,GDP per capita (US dollars),839
+14,Eastern Africa,2019,GDP per capita (US dollars),979
+14,Eastern Africa,2020,GDP per capita (US dollars),951
+14,Eastern Africa,2021,GDP per capita (US dollars),999
+14,Eastern Africa,1995,GDP in constant 2015 prices (millions of US dollars),110383
+14,Eastern Africa,2005,GDP in constant 2015 prices (millions of US dollars),165800
+14,Eastern Africa,2010,GDP in constant 2015 prices (millions of US dollars),244279
+14,Eastern Africa,2015,GDP in constant 2015 prices (millions of US dollars),329095
+14,Eastern Africa,2019,GDP in constant 2015 prices (millions of US dollars),406004
+14,Eastern Africa,2020,GDP in constant 2015 prices (millions of US dollars),407901
+14,Eastern Africa,2021,GDP in constant 2015 prices (millions of US dollars),430749
+14,Eastern Africa,1995,GDP real rates of growth (percent),4.4
+14,Eastern Africa,2005,GDP real rates of growth (percent),6.5
+14,Eastern Africa,2010,GDP real rates of growth (percent),9.4
+14,Eastern Africa,2015,GDP real rates of growth (percent),6
+14,Eastern Africa,2019,GDP real rates of growth (percent),5.4
+14,Eastern Africa,2020,GDP real rates of growth (percent),0.5
+14,Eastern Africa,2021,GDP real rates of growth (percent),5.6
+17,Middle Africa,1995,GDP in current prices (millions of US dollars),37554
+17,Middle Africa,2005,GDP in current prices (millions of US dollars),101403
+17,Middle Africa,2010,GDP in current prices (millions of US dollars),191153
+17,Middle Africa,2015,GDP in current prices (millions of US dollars),242140
+17,Middle Africa,2019,GDP in current prices (millions of US dollars),229280
+17,Middle Africa,2020,GDP in current prices (millions of US dollars),194466
+17,Middle Africa,2021,GDP in current prices (millions of US dollars),232025
+17,Middle Africa,1995,GDP per capita (US dollars),441
+17,Middle Africa,2005,GDP per capita (US dollars),892
+17,Middle Africa,2010,GDP per capita (US dollars),1431
+17,Middle Africa,2015,GDP per capita (US dollars),1538
+17,Middle Africa,2019,GDP per capita (US dollars),1281
+17,Middle Africa,2020,GDP per capita (US dollars),1054
+17,Middle Africa,2021,GDP per capita (US dollars),1219
+17,Middle Africa,1995,GDP in constant 2015 prices (millions of US dollars),85602
+17,Middle Africa,2005,GDP in constant 2015 prices (millions of US dollars),140464
+17,Middle Africa,2010,GDP in constant 2015 prices (millions of US dollars),192133
+17,Middle Africa,2015,GDP in constant 2015 prices (millions of US dollars),242140
+17,Middle Africa,2019,GDP in constant 2015 prices (millions of US dollars),245344
+17,Middle Africa,2020,GDP in constant 2015 prices (millions of US dollars),238420
+17,Middle Africa,2021,GDP in constant 2015 prices (millions of US dollars),243812
+17,Middle Africa,1995,GDP real rates of growth (percent),6.7
+17,Middle Africa,2005,GDP real rates of growth (percent),9.2
+17,Middle Africa,2010,GDP real rates of growth (percent),4.8
+17,Middle Africa,2015,GDP real rates of growth (percent),1.9
+17,Middle Africa,2019,GDP real rates of growth (percent),1.2
+17,Middle Africa,2020,GDP real rates of growth (percent),-2.8
+17,Middle Africa,2021,GDP real rates of growth (percent),2.3
+18,Southern Africa,1995,GDP in current prices (millions of US dollars),183204
+18,Southern Africa,2005,GDP in current prices (millions of US dollars),310385
+18,Southern Africa,2010,GDP in current prices (millions of US dollars),447956
+18,Southern Africa,2015,GDP in current prices (millions of US dollars),377770
+18,Southern Africa,2019,GDP in current prices (millions of US dollars),424701
+18,Southern Africa,2020,GDP in current prices (millions of US dollars),369201
+18,Southern Africa,2021,GDP in current prices (millions of US dollars),455972
+18,Southern Africa,1995,GDP per capita (US dollars),3662
+18,Southern Africa,2005,GDP per capita (US dollars),5550
+18,Southern Africa,2010,GDP per capita (US dollars),7580
+18,Southern Africa,2015,GDP per capita (US dollars),5929
+18,Southern Africa,2019,GDP per capita (US dollars),6393
+18,Southern Africa,2020,GDP per capita (US dollars),5488
+18,Southern Africa,2021,GDP per capita (US dollars),6707
+18,Southern Africa,1995,GDP in constant 2015 prices (millions of US dollars),207820
+18,Southern Africa,2005,GDP in constant 2015 prices (millions of US dollars),289208
+18,Southern Africa,2010,GDP in constant 2015 prices (millions of US dollars),337097
+18,Southern Africa,2015,GDP in constant 2015 prices (millions of US dollars),377770
+18,Southern Africa,2019,GDP in constant 2015 prices (millions of US dollars),393447
+18,Southern Africa,2020,GDP in constant 2015 prices (millions of US dollars),368150
+18,Southern Africa,2021,GDP in constant 2015 prices (millions of US dollars),386990
+18,Southern Africa,1995,GDP real rates of growth (percent),3.3
+18,Southern Africa,2005,GDP real rates of growth (percent),5.2
+18,Southern Africa,2010,GDP real rates of growth (percent),3.4
+18,Southern Africa,2015,GDP real rates of growth (percent),1.2
+18,Southern Africa,2019,GDP real rates of growth (percent),0.4
+18,Southern Africa,2020,GDP real rates of growth (percent),-6.4
+18,Southern Africa,2021,GDP real rates of growth (percent),5.1
+11,Western Africa,1995,GDP in current prices (millions of US dollars),105290
+11,Western Africa,2005,GDP in current prices (millions of US dollars),265163
+11,Western Africa,2010,GDP in current prices (millions of US dollars),511404
+11,Western Africa,2015,GDP in current prices (millions of US dollars),685783
+11,Western Africa,2019,GDP in current prices (millions of US dollars),725902
+11,Western Africa,2020,GDP in current prices (millions of US dollars),691994
+11,Western Africa,2021,GDP in current prices (millions of US dollars),725318
+11,Western Africa,1995,GDP per capita (US dollars),506
+11,Western Africa,2005,GDP per capita (US dollars),974
+11,Western Africa,2010,GDP per capita (US dollars),1636
+11,Western Africa,2015,GDP per capita (US dollars),1914
+11,Western Africa,2019,GDP per capita (US dollars),1825
+11,Western Africa,2020,GDP per capita (US dollars),1696
+11,Western Africa,2021,GDP per capita (US dollars),1733
+11,Western Africa,1995,GDP in constant 2015 prices (millions of US dollars),225891
+11,Western Africa,2005,GDP in constant 2015 prices (millions of US dollars),380725
+11,Western Africa,2010,GDP in constant 2015 prices (millions of US dollars),521983
+11,Western Africa,2015,GDP in constant 2015 prices (millions of US dollars),685783
+11,Western Africa,2019,GDP in constant 2015 prices (millions of US dollars),754252
+11,Western Africa,2020,GDP in constant 2015 prices (millions of US dollars),748479
+11,Western Africa,2021,GDP in constant 2015 prices (millions of US dollars),780250
+11,Western Africa,1995,GDP real rates of growth (percent),1.5
+11,Western Africa,2005,GDP real rates of growth (percent),6
+11,Western Africa,2010,GDP real rates of growth (percent),7.6
+11,Western Africa,2015,GDP real rates of growth (percent),3.5
+11,Western Africa,2019,GDP real rates of growth (percent),3.4
+11,Western Africa,2020,GDP real rates of growth (percent),-0.8
+11,Western Africa,2021,GDP real rates of growth (percent),4.2
