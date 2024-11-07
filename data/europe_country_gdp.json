@@ -1,0 +1,8626 @@
+[
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2393.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 8052.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 11927.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 11387.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 15402.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 15132.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 18260.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 729.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 2655.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 4094.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 3950.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 5359.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 5278.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 6396.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 4720.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 8057.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 10420.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 11387.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 12968.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 12516.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 13586.0
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 13.3
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.5
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.7
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.2
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.1
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -3.5
+  },
+  {
+    "Code": 8,
+    "Country": "Albania",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 8.5
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1491.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3160.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3447.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2789.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3155.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2891.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3325.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 23702.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 39584.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 48191.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 38870.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 41329.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 37207.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 42066.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1841.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3136.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2927.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2789.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3008.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2671.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2893.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.8
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.4
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -2.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.4
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.0
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -11.2
+  },
+  {
+    "Code": 20,
+    "Country": "Andorra",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 8.3
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 241054.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 315967.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 391893.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 381818.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 444621.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 435225.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 480368.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 30332.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 38406.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 46861.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 44179.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 50070.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 48859.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 53840.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 268468.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 339519.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 362278.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 381818.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 414056.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 387333.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 404983.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.7
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.2
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.8
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.0
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.5
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -6.5
+  },
+  {
+    "Code": 40,
+    "Country": "Austria",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.6
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 14324.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 31232.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 57232.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 56455.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 64410.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 61372.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 68206.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 1369.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 3144.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 5881.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 5820.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 6658.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 6370.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 7121.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 19207.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 37454.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 53219.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 56455.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 59086.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 58693.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 60014.0
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -10.4
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 9.4
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 7.8
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -3.8
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.4
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -0.7
+  },
+  {
+    "Code": 112,
+    "Country": "Belarus",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.3
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 288029.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 385561.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 480952.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 462150.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 535831.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 525212.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 594104.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 28531.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 36661.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 44213.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 41086.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 46551.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 45427.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 51166.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 317458.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 402490.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 433230.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 462150.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 494959.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 468422.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 497154.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.4
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.3
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.9
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.0
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.2
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -5.4
+  },
+  {
+    "Code": 56,
+    "Country": "Belgium",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.1
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1989.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 11223.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 17176.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 16212.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 20203.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 19951.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 23365.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 530.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 2741.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 4507.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 4600.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 6011.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 6012.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 7143.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3764.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 13178.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 15170.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 16212.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 18405.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 17830.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 19176.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 16.0
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.9
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.9
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.1
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.8
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -3.1
+  },
+  {
+    "Code": 70,
+    "Country": "Bosnia and Herzegovina",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 7.5
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 18992.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 29869.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 50682.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 50782.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 68914.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 70239.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 84058.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 2240.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 3822.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 6676.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 6948.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 9772.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 10064.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 12207.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 33809.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 40066.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 47538.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 50782.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 57444.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 55170.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 59382.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.9
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 7.1
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.5
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.4
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -4.0
+  },
+  {
+    "Code": 100,
+    "Country": "Bulgaria",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 7.6
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 22644.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 45835.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 60672.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 50243.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 62328.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 57472.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 68955.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 4710.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 10347.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 13888.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 11808.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 15092.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 14028.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 16983.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 33414.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 49177.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 50638.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 50243.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 57206.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 52297.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 59134.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 8.0
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.3
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -1.2
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.5
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.4
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -8.6
+  },
+  {
+    "Code": 191,
+    "Country": "Croatia",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 13.1
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 9933.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 18694.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 25775.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 19901.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 25945.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 25008.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 28408.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 15265.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 25311.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 31075.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 23477.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 29851.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 28570.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 32281.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 12657.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 18922.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 21632.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 19901.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 25002.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 23909.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 25496.0
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 9.9
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.9
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.3
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.4
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.5
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -4.4
+  },
+  {
+    "Code": 196,
+    "Country": "Cyprus",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.6
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 60146.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 137143.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 209070.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 188033.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 252548.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 245975.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 281778.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 5833.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 13341.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 19978.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 17867.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 23968.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 23357.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 26809.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 115863.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 152948.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 172890.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 188033.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 215640.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 203774.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 210996.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.5
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.6
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.4
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.4
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.0
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -5.5
+  },
+  {
+    "Code": 203,
+    "Country": "Czechia",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.5
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 185008.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 264467.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 321995.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 302673.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 346499.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 355222.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 398303.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 35339.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 48648.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 58008.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 53308.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 59784.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 60976.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 68037.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 226659.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 280921.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 283894.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 302673.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 332603.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 325968.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 341797.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.3
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.9
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.3
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.5
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -2.0
+  },
+  {
+    "Code": 208,
+    "Country": "Denmark",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.9
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4476.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 14104.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 19535.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 22882.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 31082.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 31370.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 37191.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 3081.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 10412.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 14671.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 17405.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 23422.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 23597.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 27991.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 10250.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 19814.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 19413.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 22882.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 26885.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 26737.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 28879.0
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.6
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 9.5
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.4
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.9
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.7
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -0.6
+  },
+  {
+    "Code": 233,
+    "Country": "Estonia",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 8.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 134186.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 204804.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 249181.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 234440.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 268515.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 271892.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 297302.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 26270.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 39040.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 46461.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 42785.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 48630.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 49171.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 53703.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 152727.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 223030.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 233553.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 234440.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 254642.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 249027.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 256431.0
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.2
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.8
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.2
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.5
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.2
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -2.2
+  },
+  {
+    "Code": 246,
+    "Country": "Finland",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1600997.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2196071.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2642610.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2438208.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2728870.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2639009.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2957880.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 27029.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 35117.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 40926.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 36931.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 40915.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 39506.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 44229.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1770422.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2223897.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2316636.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2438208.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2615760.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2412134.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2576559.0
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.1
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.7
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.9
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.1
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.8
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -7.8
+  },
+  {
+    "Code": 250,
+    "Country": "France",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.8
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2585619.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2845732.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3396354.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3356236.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3888226.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3889669.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4259935.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 31873.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 35041.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 41763.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 40893.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 46763.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 46678.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 51073.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2582288.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2910863.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3086730.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3356236.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3595200.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3462293.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3553247.0
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.5
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.7
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.2
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.5
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.1
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -3.7
+  },
+  {
+    "Code": 276,
+    "Country": "Germany",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.6
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 136886.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 247777.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 296835.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 195605.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 205257.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 188926.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 214874.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 12760.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 22295.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 26902.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 18100.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 19411.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 17972.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 20571.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 168366.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 243662.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 239684.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 195605.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 203831.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 185478.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 201122.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.6
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -5.5
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -0.2
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.9
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -9.0
+  },
+  {
+    "Code": 300,
+    "Country": "Greece",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 8.4
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 46439.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 113211.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 132175.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 125174.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 163989.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 157182.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 181848.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 4497.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 11238.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 13235.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 12715.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 16782.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 16120.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 18728.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 79281.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 113768.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 113077.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 125174.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 147375.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 140673.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 150686.0
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.5
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.3
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.1
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.7
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.9
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -4.5
+  },
+  {
+    "Code": 348,
+    "Country": "Hungary",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 7.1
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 7124.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 16853.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 13751.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 17517.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 24826.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 21695.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 25602.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 26612.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 56738.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 43197.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 52912.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 68813.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 59167.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 69133.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 9144.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 14496.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 15328.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 17517.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 20843.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 19417.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 20272.0
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.1
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.1
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -2.8
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.4
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.4
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -6.8
+  },
+  {
+    "Code": 352,
+    "Country": "Iceland",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.4
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 69142.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 211793.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 221697.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 291658.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 399322.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 425852.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 504183.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 19316.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 51391.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 48998.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 62510.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 81560.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 86098.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 101109.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 102124.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 207715.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 211683.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 291658.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 371107.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 394058.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 447604.0
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 10.8
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.7
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.7
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 24.4
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.4
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.2
+  },
+  {
+    "Code": 372,
+    "Country": "Ireland",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 13.6
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1174699.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1857478.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2134018.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1835899.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2011302.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1896755.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2107703.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 20650.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 31915.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 35673.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 30480.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 33674.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 31878.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 35579.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1662885.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1927161.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1899562.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1835899.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1917386.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1744056.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1861557.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.9
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.8
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.7
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.8
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.5
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -9.0
+  },
+  {
+    "Code": 380,
+    "Country": "Italy",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.7
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 5304.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3595.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 5339.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 6293.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 7899.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 7734.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 9412.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 2477.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 1970.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 2978.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 3578.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 4683.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 4630.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 5663.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3887.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 4089.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 5047.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 6293.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 7544.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 7142.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 7909.0
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 8.1
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.5
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.9
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.9
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.8
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -5.3
+  },
+  {
+    "Code": 412,
+    "Country": "Kosovo",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 10.7
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 5408.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 17003.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 23964.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 27252.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 34344.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 34602.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 39854.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 2104.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 7614.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 11403.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 13681.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 17920.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 18240.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 21267.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 12345.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 23557.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 22985.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 27252.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 30742.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 30065.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 31288.0
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.2
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 10.7
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -4.5
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.9
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.6
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -2.2
+  },
+  {
+    "Code": 428,
+    "Country": "Latvia",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.1
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2695.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4046.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 5621.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 6269.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 6427.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 6115.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 6608.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 87253.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 116930.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 156462.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 167809.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 167013.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 157782.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 169260.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3677.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 5370.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 5980.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 6269.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 6545.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 5926.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 6197.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.9
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.8
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 7.4
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.0
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -2.8
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -9.5
+  },
+  {
+    "Code": 438,
+    "Country": "Liechtenstein",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.6
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 6699.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 26113.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 37138.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 41419.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 54752.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 56847.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 66445.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 1788.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 7741.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 11831.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 13975.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 19217.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 20156.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 23844.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 17906.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 32436.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 34388.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 41419.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 48179.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 48168.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 51049.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.3
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 7.7
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.7
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.6
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.0
+  },
+  {
+    "Code": 440,
+    "Country": "Lithuania",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 20853.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 37657.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 56159.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 60047.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 69826.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 73993.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 85506.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 51157.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 81008.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 110752.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 105456.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 112627.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 117374.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 133745.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 30592.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 47065.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 53991.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 60047.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 66145.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 65618.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 68966.0
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.4
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.5
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.8
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.3
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.3
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -0.8
+  },
+  {
+    "Code": 442,
+    "Country": "Luxembourg",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.1
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3720.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 6406.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 9027.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 11087.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 15872.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 15036.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 17721.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 9743.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 15615.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 21557.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 24283.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 31514.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 29176.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 33642.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 5220.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 7320.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 8518.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 11087.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 14433.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 13188.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 14736.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.3
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.4
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.5
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 9.6
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 7.0
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -8.6
+  },
+  {
+    "Code": 470,
+    "Country": "Malta",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 11.7
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3064.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4203.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 5362.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 6259.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 7384.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 6740.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 8596.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 97328.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 130767.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 161624.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 170270.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 199384.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 182537.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 234317.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3415.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 4290.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 4699.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 6259.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 7075.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 6158.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 7485.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.1
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.7
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.1
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.9
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.9
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -13.0
+  },
+  {
+    "Code": 492,
+    "Country": "Monaco",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 21.6
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1215.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2279.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4139.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4053.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 5542.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4781.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 5809.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 1922.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 3601.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 6559.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 6393.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 8792.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 7600.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 9252.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1794.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3078.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3704.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 4053.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 4778.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 4047.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 4574.0
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 14.3
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.2
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.7
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.4
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.1
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -15.3
+  },
+  {
+    "Code": 499,
+    "Country": "Montenegro",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 13.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 452287.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 685076.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 846555.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 765265.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 910194.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 909793.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1012847.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 29281.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 42128.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 50945.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 44907.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 52421.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 52183.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 57871.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 520709.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 688450.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 737269.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 765265.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 839913.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 807273.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 846532.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.1
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.1
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.3
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.0
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -3.9
+  },
+  {
+    "Code": 528,
+    "Country": "Netherlands (Kingdom of the)",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.9
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4707.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 6259.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 9407.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 10065.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 12606.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 12114.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 13881.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 2373.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 3011.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 4493.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 4775.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 5963.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 5739.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 6600.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 5748.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 7335.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 8919.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 10065.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 11185.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 10502.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 10918.0
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -1.1
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.7
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.4
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.9
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.9
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -6.1
+  },
+  {
+    "Code": 807,
+    "Country": "North Macedonia",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 152031.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 308884.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 428757.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 385802.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 404941.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 362198.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 482175.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 34875.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 66805.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 87685.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 74330.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 75714.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 67325.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 89242.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 253494.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 337670.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 354112.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 385802.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 406468.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 403553.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 419215.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.2
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.6
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.7
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.0
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.7
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -0.7
+  },
+  {
+    "Code": 578,
+    "Country": "Norway",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.9
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 142294.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 306146.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 475697.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 477111.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 596058.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 599443.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 679442.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 3705.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 7936.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 12325.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 12375.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 15485.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 15599.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 17736.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 217230.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 326494.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 409175.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 477111.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 571503.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 559958.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 598303.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 7.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.5
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.9
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.4
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.5
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -2.0
+  },
+  {
+    "Code": 616,
+    "Country": "Poland",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.8
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 118120.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 197175.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 237881.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 199314.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 239987.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 229032.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 253663.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 11752.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 18737.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 22466.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 19229.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 23323.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 22240.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 24651.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 158239.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 201835.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 207893.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 199314.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 222273.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 203823.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 214998.0
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.3
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.8
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.7
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.8
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.7
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -8.3
+  },
+  {
+    "Code": 620,
+    "Country": "Portugal",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.5
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 37430.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 98454.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 170029.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 177884.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 251018.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 251363.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 284086.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 1661.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 4668.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 8361.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 8936.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 12857.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 12929.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 14698.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 103671.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 134852.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 155041.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 177884.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 217987.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 209970.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 220679.0
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 7.6
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.7
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -3.9
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.2
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.9
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -3.7
+  },
+  {
+    "Code": 642,
+    "Country": "Romania",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.1
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 402295.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 771495.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1539845.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1363482.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1693115.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1489362.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1778782.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 2708.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 5365.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 10750.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 9425.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 11617.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 10228.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 12259.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 723170.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1054187.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1254602.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1363482.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1461552.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1422620.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1490187.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -4.1
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.4
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.5
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -2.0
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.2
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -2.7
+  },
+  {
+    "Code": 643,
+    "Country": "Russian Federation",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.7
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1020.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2027.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2139.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1419.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1616.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1545.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1702.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 40976.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 68708.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 67684.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 42265.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 47289.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 45423.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 50425.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1332.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2070.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1881.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1419.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1506.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1406.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1482.0
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 9.3
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.3
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -4.6
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -6.2
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.1
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -6.6
+  },
+  {
+    "Code": 674,
+    "Country": "San Marino",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.4
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 21907.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 27683.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 41819.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 39656.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 51514.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 53335.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 63068.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 2164.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 3535.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 5464.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 5274.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 6960.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 7249.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 8643.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 21208.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 32776.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 37960.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 39656.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 45616.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 45185.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 48524.0
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.7
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.5
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.7
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.8
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.3
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -0.9
+  },
+  {
+    "Code": 688,
+    "Country": "Serbia",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 7.4
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 20042.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 49033.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 91074.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 88865.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 105720.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 106697.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 116527.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 3746.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 9120.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 16877.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 16382.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 19384.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 19553.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 21390.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 40425.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 61364.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 78598.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 88865.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 99457.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 96101.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 98998.0
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.8
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.6
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.7
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.2
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.5
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -3.4
+  },
+  {
+    "Code": 703,
+    "Country": "Slovakia",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 21354.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 36204.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 48161.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 43090.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 54332.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 53707.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 61749.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 10724.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 18059.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 23410.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 20708.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 25714.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 25362.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 29135.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 26407.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 38472.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 42210.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 43090.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 50363.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 48186.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 52143.0
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.1
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.8
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.3
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.2
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.5
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -4.3
+  },
+  {
+    "Code": 705,
+    "Country": "Slovenia",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 8.2
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 614612.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1153257.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1420722.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1195676.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1394320.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1276963.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1427381.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 15437.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 26399.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 30505.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 25751.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 29584.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 26961.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 30058.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 794233.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1140888.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1196654.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1195676.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1323386.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1173507.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1238280.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.8
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.7
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.2
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.8
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.0
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -11.3
+  },
+  {
+    "Code": 724,
+    "Country": "Spain",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.5
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 267307.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 392219.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 495813.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 505104.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 533880.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 547054.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 635664.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 30520.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 43331.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 52849.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 51283.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 51995.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 52759.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 60730.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 305837.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 415273.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 453619.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 505104.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 549821.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 537889.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 565187.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.9
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.9
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.5
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.0
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -2.2
+  },
+  {
+    "Code": 752,
+    "Country": "Sweden",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.1
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 353142.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 420553.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 603434.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 702150.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 731718.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 752248.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 812867.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 50174.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 56614.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 77142.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 84783.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 85326.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 87080.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 93525.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 474507.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 571056.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 641852.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 702150.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 758168.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 740026.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 767349.0
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.5
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.9
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.3
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.7
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.2
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -2.4
+  },
+  {
+    "Code": 756,
+    "Country": "Switzerland",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.7
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 50376.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 89239.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 136012.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 91031.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 153883.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 156618.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 200086.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 987.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 1902.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 2977.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 2024.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 3481.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 3567.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 4596.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 76792.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 100863.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 102154.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 91031.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 101944.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 98118.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 101408.0
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -12.2
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.1
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.3
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -9.8
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.2
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -3.8
+  },
+  {
+    "Code": 804,
+    "Country": "Ukraine",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.4
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1346252.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2544813.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2491397.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2934858.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2857058.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2704609.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3131378.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 23239.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 42144.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 39697.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 44996.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 42784.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 40331.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 46542.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1958703.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2599922.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2660406.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2934858.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3174164.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2824026.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3036532.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.7
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.7
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.4
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.4
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.6
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -11.0
+  },
+  {
+    "Code": 826,
+    "Country": "United Kingdom",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 7.5
+  }
+]

@@ -1,0 +1,982 @@
+[
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 10646587.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 16133739.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 19903672.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 19191354.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 21741278.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 21034827.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 23816167.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 14608.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 22081.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 26967.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 25795.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 29060.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 28114.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 31875.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 13323775.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 17057573.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 18055978.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 19191354.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 20848306.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 19589482.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 20678071.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.1
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.4
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.4
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.9
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.8
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -6.0
+  },
+  {
+    "Code": 150,
+    "Region\/Country\/Area": "Europe",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.6
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 794458.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1629410.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2868792.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2626563.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3361627.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3150109.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3688492.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 2563.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 5470.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 9734.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 8928.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 11451.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 10757.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 12655.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1413879.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2027502.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2392748.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2626563.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2941145.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2853558.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3000315.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -0.8
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.6
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.2
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.2
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -3.0
+  },
+  {
+    "Code": 151,
+    "Region\/Country\/Area": "Eastern Europe",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.1
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2177632.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4001053.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4303230.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4763604.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4955218.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4811342.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 5618097.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 23413.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 41625.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 43309.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 46389.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 47165.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 45595.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 53057.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3049189.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 4154835.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 4289380.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 4763604.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 5215453.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 4858908.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 5198253.0
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.3
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.9
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.5
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.6
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.9
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -6.8
+  },
+  {
+    "Code": 154,
+    "Region\/Country\/Area": "Northern Europe",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 7.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2126757.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3608410.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4302710.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3622787.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4101335.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3835374.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4290867.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 14716.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 24061.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 27965.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 23653.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 26868.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 25155.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 28211.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2889171.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3682236.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3731186.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3622787.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3893887.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3521834.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3751031.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.0
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.8
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.7
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.9
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.4
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -9.6
+  },
+  {
+    "Code": 39,
+    "Region\/Country\/Area": "Southern Europe",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.5
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 5547741.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 6894866.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 8428940.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 8178400.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 9323098.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 9238003.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 10218711.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 30591.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 36927.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 44327.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 42167.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 47357.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 46804.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 51681.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 5971535.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 7193001.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 7642665.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 8178400.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 8797821.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 8355182.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 8728473.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.9
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.5
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.5
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.5
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -5.0
+  },
+  {
+    "Code": 155,
+    "Region\/Country\/Area": "Western Europe",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.5
+  }
+]

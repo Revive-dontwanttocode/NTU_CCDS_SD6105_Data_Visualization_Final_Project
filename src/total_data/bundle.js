@@ -416,3 +416,11 @@ export function initLineChart() {
     update(selectedOption);
   });
 }
+
+export function initDensityChart() {
+  // set the dimensions and margins of the graph
+  const margin = {top: 150, right: 150, bottom: 150, left: 150},
+    width = 1000 - margin.left - margin.right,
+    height = 850 - margin.top - margin.bottom;
+
+}
