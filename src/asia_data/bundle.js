@@ -1,4 +1,5 @@
 import * as d3 from 'd3';
+import {RadarChart} from './radarChart';
 
 export function initStackedBarChartAsia() {
   // readout json data
@@ -457,7 +458,9 @@ export function initDensityChart() {
 
       // Y轴：使用 scaleBand 设置国家名称
       let y = d3.scaleBand()
-        .domain(filteredData.map(function(d) { return d.Country; })) // 设置 Y 轴为国家名称
+        .domain(filteredData.map(function (d) {
+          return d.Country;
+        })) // 设置 Y 轴为国家名称
         .range([0, height])
         .padding(0.1);  // 适当的间距
       svg.append("g")
@@ -465,7 +468,11 @@ export function initDensityChart() {
 
       // X轴：线性比例尺，范围从GDP的最小值到最大值
       let x = d3.scaleLinear()
-        .domain([d3.min(filteredData, function(d) { return +d.Value; }), d3.max(filteredData, function(d) { return +d.Value; })])
+        .domain([d3.min(filteredData, function (d) {
+          return +d.Value;
+        }), d3.max(filteredData, function (d) {
+          return +d.Value;
+        })])
         .range([0, width]);
       svg.append("g")
         .attr("transform", "translate(0," + height + ")")
@@ -476,14 +483,97 @@ export function initDensityChart() {
         .data(data)
         .enter()
         .append("rect")
-        .attr("y", function(d) { return y(d.Country); }) // 确保 y 位置使用正确的比例尺
+        .attr("y", function (d) {
+          return y(d.Country);
+        }) // 确保 y 位置使用正确的比例尺
         .attr("x", x(0)) // 从0开始绘制
-        .attr("width", function(d) { return x(d.Value); })
+        .attr("width", function (d) {
+          return x(d.Value);
+        })
         .attr("height", y.bandwidth())
-        .style("fill", function(d) { return color(d.Country); });
+        .style("fill", function (d) {
+          return color(d.Country);
+        });
     })
 }
 
 export function initCountriesRadarChart() {
+  fetch('../../data/asia_country_gdp.json')
+    .then((response) => response.json())
+    .then((data) => {
+      const filteredData = data.filter(d => (d.Country === 'China' || d.Country === 'Republic of Korea' || d.Country === 'Japan' || d.Country === 'India' || d.Country === 'Singapore') && d.Year === 2021);
 
+      const margin = {top: 100, right: 200, bottom: 100, left: 200};
+      const width = 1000 - margin.left - margin.right;
+      const height = 1000 - margin.top - margin.bottom;
+
+      function transformData(data) {
+        // 定义雷达图的四个固定方向
+        const requiredSeries = [
+          "GDP in constant 2015 prices (millions of US dollars)",
+          "GDP real rates of growth (percent)",
+          "GDP in current prices (millions of US dollars)",
+          "GDP per capita (US dollars)"
+        ];
+
+        // 计算每个方向的最小值和最大值
+        let minMaxValues = {};
+        requiredSeries.forEach(series => {
+          const seriesValues = data
+            .filter(d => d.Series === series)
+            .map(d => +d.Value);
+          minMaxValues[series] = {
+            min: Math.min(...seriesValues),
+            max: Math.max(...seriesValues)
+          };
+        });
+
+        // 按国家分组，并进行归一化处理
+        let radarData = [];
+        let groupedData = d3.group(data, d => d.Country);
+
+        groupedData.forEach((values, country) => {
+          // 创建一个 Map 来存储当前国家的数据，以便查找特定 Series 的值
+          let seriesMap = new Map(values.map(d => [d.Series, d.Value]));
+
+          // 构造当前国家的数据结构，确保包含四个固定的 Series，并进行归一化处理
+          let countryData = requiredSeries.map(series => {
+            const rawValue = seriesMap.get(series) || 0; // 原始值（如果没有值则填充 0）
+            const { min, max } = minMaxValues[series]; // 获取该 Series 的最小值和最大值
+            const normalizedValue = (rawValue - min) / (max - min); // 归一化
+
+            return {
+              axis: series,
+              value: normalizedValue
+            };
+          });
+
+          radarData.push({country: country, data: countryData });
+        });
+
+        return radarData;
+      }
+
+      // 数据转换
+      let transformedData = transformData(filteredData);
+
+      // 定义颜色比例尺
+      let color = d3.scaleOrdinal()
+        .domain(transformedData.map(d => d[0].axis))
+        .range(d3.schemeCategory10);
+
+      // 设置雷达图选项
+      let radarChartOptions = {
+        w: width,
+        h: height,
+        margin: margin,
+        maxValue: d3.max(transformedData, d => d3.max(d, v => v.Value)), // 动态计算最大值
+        levels: 5,
+        roundStrokes: true,
+        color: color
+      };
+
+      // 绘制雷达图
+      RadarChart("#countries_radar_chart", transformedData, radarChartOptions);
+    })
 }

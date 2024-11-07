@@ -3,6 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <title>Asia Regional GDP Data</title>
+  <!-- Google fonts -->
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
   <style>
       /* 添加样式用于高亮悬停效果 */
       .bar:hover {
@@ -35,10 +38,11 @@
 </body>
 
 <script type="module">
-  import {initStackedBarChartAsia, initTop20Barchart, initTop10Barchart, initDensityChart} from './bundle.js'
+  import {initStackedBarChartAsia, initTop20Barchart, initTop10Barchart, initDensityChart, initCountriesRadarChart} from './bundle.js'
 
   initStackedBarChartAsia();
   initTop10Barchart();
   initDensityChart();
+  initCountriesRadarChart();
 </script>
 </html>
