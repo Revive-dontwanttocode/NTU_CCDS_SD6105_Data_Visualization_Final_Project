@@ -1,1 +1,1178 @@
-[{"Code":19,"Region\/Country\/Area":"Americas","Year":1995,"Series":"GDP in current prices (millions of US dollars)","Value":10222806.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":2005,"Series":"GDP in current prices (millions of US dollars)","Value":17084190.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":2010,"Series":"GDP in current prices (millions of US dollars)","Value":22029028.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":2015,"Series":"GDP in current prices (millions of US dollars)","Value":25283652.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":2019,"Series":"GDP in current prices (millions of US dollars)","Value":28638614.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":2020,"Series":"GDP in current prices (millions of US dollars)","Value":27338959.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":2021,"Series":"GDP in current prices (millions of US dollars)","Value":30618690.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":1995,"Series":"GDP per capita (US dollars)","Value":13150.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":2005,"Series":"GDP per capita (US dollars)","Value":19283.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":2010,"Series":"GDP per capita (US dollars)","Value":23570.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":2015,"Series":"GDP per capita (US dollars)","Value":25739.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":2019,"Series":"GDP per capita (US dollars)","Value":28144.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":2020,"Series":"GDP per capita (US dollars)","Value":26684.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":2021,"Series":"GDP per capita (US dollars)","Value":29723.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":1995,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":15230945.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":2005,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":21055926.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":2010,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":22734261.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":2015,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":25283652.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":2019,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":27145355.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":2020,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":26109546.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":2021,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":27665722.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":1995,"Series":"GDP real rates of growth (percent)","Value":2.4},{"Code":19,"Region\/Country\/Area":"Americas","Year":2005,"Series":"GDP real rates of growth (percent)","Value":3.7},{"Code":19,"Region\/Country\/Area":"Americas","Year":2010,"Series":"GDP real rates of growth (percent)","Value":3.4},{"Code":19,"Region\/Country\/Area":"Americas","Year":2015,"Series":"GDP real rates of growth (percent)","Value":2.0},{"Code":19,"Region\/Country\/Area":"Americas","Year":2019,"Series":"GDP real rates of growth (percent)","Value":1.7},{"Code":19,"Region\/Country\/Area":"Americas","Year":2020,"Series":"GDP real rates of growth (percent)","Value":-3.8},{"Code":19,"Region\/Country\/Area":"Americas","Year":2021,"Series":"GDP real rates of growth (percent)","Value":6.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":1995,"Series":"GDP in current prices (millions of US dollars)","Value":8249570.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2005,"Series":"GDP in current prices (millions of US dollars)","Value":14219073.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2010,"Series":"GDP in current prices (millions of US dollars)","Value":16675374.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2015,"Series":"GDP in current prices (millions of US dollars)","Value":19771305.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2019,"Series":"GDP in current prices (millions of US dollars)","Value":23132891.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2020,"Series":"GDP in current prices (millions of US dollars)","Value":22715855.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2021,"Series":"GDP in current prices (millions of US dollars)","Value":25313920.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":1995,"Series":"GDP per capita (US dollars)","Value":27958.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2005,"Series":"GDP per capita (US dollars)","Value":43196.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2010,"Series":"GDP per capita (US dollars)","Value":48297.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2015,"Series":"GDP per capita (US dollars)","Value":54850.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2019,"Series":"GDP per capita (US dollars)","Value":62192.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2020,"Series":"GDP per capita (US dollars)","Value":60746.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2021,"Series":"GDP per capita (US dollars)","Value":67455.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":1995,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":12097713.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2005,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":16930307.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2010,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":17792210.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2015,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":19771305.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2019,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":21628222.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2020,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":20993468.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2021,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":22218806.0},{"Code":21,"Region\/Country\/Area":"Northern America","Year":1995,"Series":"GDP real rates of growth (percent)","Value":2.7},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2005,"Series":"GDP real rates of growth (percent)","Value":3.5},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2010,"Series":"GDP real rates of growth (percent)","Value":2.7},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2015,"Series":"GDP real rates of growth (percent)","Value":2.5},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2019,"Series":"GDP real rates of growth (percent)","Value":2.3},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2020,"Series":"GDP real rates of growth (percent)","Value":-2.9},{"Code":21,"Region\/Country\/Area":"Northern America","Year":2021,"Series":"GDP real rates of growth (percent)","Value":5.8},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":1995,"Series":"GDP in current prices (millions of US dollars)","Value":1973236.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2005,"Series":"GDP in current prices (millions of US dollars)","Value":2865117.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2010,"Series":"GDP in current prices (millions of US dollars)","Value":5353653.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2015,"Series":"GDP in current prices (millions of US dollars)","Value":5512346.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2019,"Series":"GDP in current prices (millions of US dollars)","Value":5505724.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2020,"Series":"GDP in current prices (millions of US dollars)","Value":4623104.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2021,"Series":"GDP in current prices (millions of US dollars)","Value":5304770.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":1995,"Series":"GDP per capita (US dollars)","Value":4091.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2005,"Series":"GDP per capita (US dollars)","Value":5146.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2010,"Series":"GDP per capita (US dollars)","Value":9084.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2015,"Series":"GDP per capita (US dollars)","Value":8864.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2019,"Series":"GDP per capita (US dollars)","Value":8528.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2020,"Series":"GDP per capita (US dollars)","Value":7106.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2021,"Series":"GDP per capita (US dollars)","Value":8101.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":1995,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":3133231.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2005,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":4125619.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2010,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":4942051.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2015,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":5512346.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2019,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":5517133.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2020,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":5116077.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2021,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":5446916.0},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":1995,"Series":"GDP real rates of growth (percent)","Value":1.1},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2005,"Series":"GDP real rates of growth (percent)","Value":4.5},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2010,"Series":"GDP real rates of growth (percent)","Value":5.9},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2015,"Series":"GDP real rates of growth (percent)","Value":0.1},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2019,"Series":"GDP real rates of growth (percent)","Value":-0.3},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2020,"Series":"GDP real rates of growth (percent)","Value":-7.3},{"Code":419,"Region\/Country\/Area":"Latin America & the Caribbean","Year":2021,"Series":"GDP real rates of growth (percent)","Value":6.5},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":1995,"Series":"GDP in current prices (millions of US dollars)","Value":121859.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2005,"Series":"GDP in current prices (millions of US dollars)","Value":226555.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2010,"Series":"GDP in current prices (millions of US dollars)","Value":296862.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2015,"Series":"GDP in current prices (millions of US dollars)","Value":354722.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2019,"Series":"GDP in current prices (millions of US dollars)","Value":394170.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2020,"Series":"GDP in current prices (millions of US dollars)","Value":375891.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2021,"Series":"GDP in current prices (millions of US dollars)","Value":423912.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":1995,"Series":"GDP per capita (US dollars)","Value":3442.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2005,"Series":"GDP per capita (US dollars)","Value":5815.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2010,"Series":"GDP per capita (US dollars)","Value":7341.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2015,"Series":"GDP per capita (US dollars)","Value":8486.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2019,"Series":"GDP per capita (US dollars)","Value":9212.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2020,"Series":"GDP per capita (US dollars)","Value":8736.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2021,"Series":"GDP per capita (US dollars)","Value":9802.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":1995,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":202874.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2005,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":294717.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2010,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":324922.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2015,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":354722.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2019,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":370704.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2020,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":339852.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2021,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":353707.0},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":1995,"Series":"GDP real rates of growth (percent)","Value":4.2},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2005,"Series":"GDP real rates of growth (percent)","Value":3.6},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2010,"Series":"GDP real rates of growth (percent)","Value":1.7},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2015,"Series":"GDP real rates of growth (percent)","Value":2.3},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2019,"Series":"GDP real rates of growth (percent)","Value":1.7},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2020,"Series":"GDP real rates of growth (percent)","Value":-8.3},{"Code":29,"Region\/Country\/Area":"Caribbean","Year":2021,"Series":"GDP real rates of growth (percent)","Value":4.1},{"Code":13,"Region\/Country\/Area":"Central America","Year":1995,"Series":"GDP in current prices (millions of US dollars)","Value":412274.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":2005,"Series":"GDP in current prices (millions of US dollars)","Value":972232.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":2010,"Series":"GDP in current prices (millions of US dollars)","Value":1210366.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":2015,"Series":"GDP in current prices (millions of US dollars)","Value":1403975.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":2019,"Series":"GDP in current prices (millions of US dollars)","Value":1544566.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":2020,"Series":"GDP in current prices (millions of US dollars)","Value":1347334.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":2021,"Series":"GDP in current prices (millions of US dollars)","Value":1560443.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":1995,"Series":"GDP per capita (US dollars)","Value":3349.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":2005,"Series":"GDP per capita (US dollars)","Value":6680.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":2010,"Series":"GDP per capita (US dollars)","Value":7756.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":2015,"Series":"GDP per capita (US dollars)","Value":8398.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":2019,"Series":"GDP per capita (US dollars)","Value":8836.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":2020,"Series":"GDP per capita (US dollars)","Value":7640.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":2021,"Series":"GDP per capita (US dollars)","Value":8783.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":1995,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":782184.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":2005,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":1091096.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":2010,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":1198480.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":2015,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":1403975.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":2019,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":1517161.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":2020,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":1396932.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":2021,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":1476455.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":1995,"Series":"GDP real rates of growth (percent)","Value":-5.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":2005,"Series":"GDP real rates of growth (percent)","Value":2.6},{"Code":13,"Region\/Country\/Area":"Central America","Year":2010,"Series":"GDP real rates of growth (percent)","Value":5.0},{"Code":13,"Region\/Country\/Area":"Central America","Year":2015,"Series":"GDP real rates of growth (percent)","Value":3.4},{"Code":13,"Region\/Country\/Area":"Central America","Year":2019,"Series":"GDP real rates of growth (percent)","Value":0.3},{"Code":13,"Region\/Country\/Area":"Central America","Year":2020,"Series":"GDP real rates of growth (percent)","Value":-7.9},{"Code":13,"Region\/Country\/Area":"Central America","Year":2021,"Series":"GDP real rates of growth (percent)","Value":5.7},{"Code":5,"Region\/Country\/Area":"South America","Year":1995,"Series":"GDP in current prices (millions of US dollars)","Value":1439103.0},{"Code":5,"Region\/Country\/Area":"South America","Year":2005,"Series":"GDP in current prices (millions of US dollars)","Value":1666331.0},{"Code":5,"Region\/Country\/Area":"South America","Year":2010,"Series":"GDP in current prices (millions of US dollars)","Value":3846425.0},{"Code":5,"Region\/Country\/Area":"South America","Year":2015,"Series":"GDP in current prices (millions of US dollars)","Value":3753649.0},{"Code":5,"Region\/Country\/Area":"South America","Year":2019,"Series":"GDP in current prices (millions of US dollars)","Value":3566987.0},{"Code":5,"Region\/Country\/Area":"South America","Year":2020,"Series":"GDP in current prices (millions of US dollars)","Value":2899879.0},{"Code":5,"Region\/Country\/Area":"South America","Year":2021,"Series":"GDP in current prices (millions of US dollars)","Value":3320415.0},{"Code":5,"Region\/Country\/Area":"South America","Year":1995,"Series":"GDP per capita (US dollars)","Value":4444.0},{"Code":5,"Region\/Country\/Area":"South America","Year":2005,"Series":"GDP per capita (US dollars)","Value":4476.0},{"Code":5,"Region\/Country\/Area":"South America","Year":2010,"Series":"GDP per capita (US dollars)","Value":9791.0},{"Code":5,"Region\/Country\/Area":"South America","Year":2015,"Series":"GDP per capita (US dollars)","Value":9092.0},{"Code":5,"Region\/Country\/Area":"South America","Year":2019,"Series":"GDP per capita (US dollars)","Value":8333.0},{"Code":5,"Region\/Country\/Area":"South America","Year":2020,"Series":"GDP per capita (US dollars)","Value":6725.0},{"Code":5,"Region\/Country\/Area":"South America","Year":2021,"Series":"GDP per capita (US dollars)","Value":7652.0},{"Code":5,"Region\/Country\/Area":"South America","Year":1995,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":2148173.0},{"Code":5,"Region\/Country\/Area":"South America","Year":2005,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":2739806.0},{"Code":5,"Region\/Country\/Area":"South America","Year":2010,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":3418649.0},{"Code":5,"Region\/Country\/Area":"South America","Year":2015,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":3753649.0},{"Code":5,"Region\/Country\/Area":"South America","Year":2019,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":3629269.0},{"Code":5,"Region\/Country\/Area":"South America","Year":2020,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":3379293.0},{"Code":5,"Region\/Country\/Area":"South America","Year":2021,"Series":"GDP in constant 2015 prices (millions of US dollars)","Value":3616754.0},{"Code":5,"Region\/Country\/Area":"South America","Year":1995,"Series":"GDP real rates of growth (percent)","Value":3.2},{"Code":5,"Region\/Country\/Area":"South America","Year":2005,"Series":"GDP real rates of growth (percent)","Value":5.4},{"Code":5,"Region\/Country\/Area":"South America","Year":2010,"Series":"GDP real rates of growth (percent)","Value":6.6},{"Code":5,"Region\/Country\/Area":"South America","Year":2015,"Series":"GDP real rates of growth (percent)","Value":-1.3},{"Code":5,"Region\/Country\/Area":"South America","Year":2019,"Series":"GDP real rates of growth (percent)","Value":-0.7},{"Code":5,"Region\/Country\/Area":"South America","Year":2020,"Series":"GDP real rates of growth (percent)","Value":-6.9},{"Code":5,"Region\/Country\/Area":"South America","Year":2021,"Series":"GDP real rates of growth (percent)","Value":7.0}]
+[
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 10222806.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 17084190.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 22029028.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 25283652.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 28638614.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 27338959.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 30618690.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 13150.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 19283.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 23570.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 25739.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 28144.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 26684.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 29723.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 15230945.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 21055926.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 22734261.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 25283652.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 27145355.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 26109546.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 27665722.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.4
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.7
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.4
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.0
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.7
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -3.8
+  },
+  {
+    "Code": 19,
+    "Region\/Country\/Area": "Americas",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 8249570.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 14219073.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 16675374.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 19771305.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 23132891.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 22715855.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 25313920.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 27958.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 43196.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 48297.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 54850.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 62192.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 60746.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 67455.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 12097713.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 16930307.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 17792210.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 19771305.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 21628222.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 20993468.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 22218806.0
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.7
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.5
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.7
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.5
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.3
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -2.9
+  },
+  {
+    "Code": 21,
+    "Region\/Country\/Area": "Northern America",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.8
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1973236.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2865117.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 5353653.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 5512346.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 5505724.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 4623104.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 5304770.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 4091.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 5146.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 9084.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 8864.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 8528.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 7106.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 8101.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3133231.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 4125619.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 4942051.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 5512346.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 5517133.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 5116077.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 5446916.0
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.1
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.5
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.9
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.1
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -0.3
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -7.3
+  },
+  {
+    "Code": 419,
+    "Region\/Country\/Area": "Latin America & the Caribbean",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.5
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 121859.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 226555.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 296862.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 354722.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 394170.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 375891.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 423912.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 3442.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 5815.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 7341.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 8486.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 9212.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 8736.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 9802.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 202874.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 294717.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 324922.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 354722.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 370704.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 339852.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 353707.0
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.2
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.6
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.7
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.3
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 1.7
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -8.3
+  },
+  {
+    "Code": 29,
+    "Region\/Country\/Area": "Caribbean",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 4.1
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 412274.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 972232.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1210366.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1403975.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1544566.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1347334.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1560443.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 3349.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 6680.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 7756.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 8398.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 8836.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 7640.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 8783.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 782184.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1091096.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1198480.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1403975.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1517161.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1396932.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 1476455.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -5.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 2.6
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.0
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.4
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 0.3
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -7.9
+  },
+  {
+    "Code": 13,
+    "Region\/Country\/Area": "Central America",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.7
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 1995,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1439103.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2005,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 1666331.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2010,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3846425.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2015,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3753649.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2019,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3566987.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2020,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 2899879.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2021,
+    "Series": "GDP in current prices (millions of US dollars)",
+    "Value": 3320415.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 1995,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 4444.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2005,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 4476.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2010,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 9791.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2015,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 9092.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2019,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 8333.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2020,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 6725.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2021,
+    "Series": "GDP per capita (US dollars)",
+    "Value": 7652.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 1995,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2148173.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2005,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 2739806.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2010,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3418649.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2015,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3753649.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2019,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3629269.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2020,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3379293.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2021,
+    "Series": "GDP in constant 2015 prices (millions of US dollars)",
+    "Value": 3616754.0
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 1995,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 3.2
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2005,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 5.4
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2010,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 6.6
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2015,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -1.3
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2019,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -0.7
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2020,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": -6.9
+  },
+  {
+    "Code": 5,
+    "Region\/Country\/Area": "South America",
+    "Year": 2021,
+    "Series": "GDP real rates of growth (percent)",
+    "Value": 7.0
+  }
+]

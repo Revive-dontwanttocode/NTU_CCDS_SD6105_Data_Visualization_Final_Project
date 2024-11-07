@@ -1,4 +1,5 @@
 import * as d3 from 'd3'
+import fs from 'fs'
 
 export function initBubbleChart() {
   // set the dimensions and margins of the graph
@@ -347,15 +348,15 @@ export function initLineChart() {
     .attr("cy", d => y(d.GDP_current))
     .attr("r", 4)
     .attr("fill", myColor("GDP_current"))
-    .on("mouseover", function(event, d) {
+    .on("mouseover", function (event, d) {
       tooltip.style("display", "block")
         .html(`<strong>Year:</strong> ${d.Year}<br><strong>Value:</strong> ${d.GDP_current}`);
     })
-    .on("mousemove", function(event) {
+    .on("mousemove", function (event) {
       tooltip.style("left", (event.pageX + 10) + "px")
         .style("top", (event.pageY - 28) + "px");
     })
-    .on("mouseout", function() {
+    .on("mouseout", function () {
       tooltip.style("display", "none");
     });
 
@@ -404,7 +405,7 @@ export function initLineChart() {
       .attr("fill", myColor(selectedGroup));
 
     // Update tooltip content to reflect selected group
-    dots.on("mouseover", function(event, d) {
+    dots.on("mouseover", function (event, d) {
       tooltip.style("display", "block")
         .html(`<strong>Year:</strong> ${d.Year}<br><strong>Value:</strong> ${d[selectedGroup]}`);
     });
@@ -418,9 +419,113 @@ export function initLineChart() {
 }
 
 export function initDensityChart() {
-  // set the dimensions and margins of the graph
-  const margin = {top: 150, right: 150, bottom: 150, left: 150},
-    width = 1000 - margin.left - margin.right,
-    height = 850 - margin.top - margin.bottom;
 
+  const files = ['../../data/asia_country_gdp.json', '../../data/europe_country_gdp.json', '../../data/americas_country_gdp.json', '../../data/africa_country_gdp.json'];
+
+  Promise.all(
+    files.map(file =>
+      fetch(file)
+        .then(response => {
+          if (!response.ok) {
+            throw new Error(`Failed to fetch ${file}: ${response.statusText}`);
+          }
+          return response.json();
+        })
+    )
+  )
+    .then(([data1, data2, data3, data4]) => { // 解构赋值
+      // 分别将不同文件的数据赋值给变量
+      const asiaData = data1.filter(d => d.Year === 2021 && d.Series === "GDP in current prices (millions of US dollars)");
+      const europeData = data2.filter(d => d.Year === 2021 && d.Series === "GDP in current prices (millions of US dollars)");
+      const americaData = data3.filter(d => d.Year === 2021 && d.Series === "GDP in current prices (millions of US dollars)");
+      const africaData = data4.filter(d => d.Year === 2021 && d.Series === "GDP in current prices (millions of US dollars)");
+
+
+      const margin = {top: 150, right: 150, bottom: 150, left: 150},
+        width = 1000 - margin.left - margin.right,
+        height = 850 - margin.top - margin.bottom;
+
+      // 创建SVG画布
+      let svg = d3.select("#density_comparison")
+        .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+      // X 轴比例尺，设定范围为所有地区数据的最小值和最大值
+      const allData = asiaData.concat(europeData, americaData, africaData);
+      const x = d3.scaleLinear()
+        .domain([0, d3.max(allData, d => d.Value)])
+        .range([0, width]);
+
+      svg.append("g")
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(x));
+
+      // 设置直方图的 bin 数量
+      const binCount = 10;
+
+      // 直方图函数
+      const histogram = d3.histogram()
+        .value(d => d.Value)
+        .domain(x.domain())
+        .thresholds(x.ticks(binCount));
+
+      // 创建 Y 轴比例尺
+      const binsAsia = histogram(asiaData);
+      const binsEurope = histogram(europeData);
+      const binsAmerica = histogram(americaData);
+      const binsAfrica = histogram(africaData);
+
+      const y = d3.scaleLinear()
+        .domain([0, d3.max([binsAsia, binsEurope, binsAmerica, binsAfrica], bins => d3.max(bins, d => d.length))])
+        .range([height, 0]);
+
+      svg.append("g")
+        .call(d3.axisLeft(y));
+
+      // 定义颜色
+      const colors = {
+        Asia: "#69b3a2",
+        Europe: "#404080",
+        America: "#ff7f0e",
+        Africa: "#2ca02c"
+      };
+
+      // 绘制直方图柱状图
+      function plotHistogram(bins, color) {
+        svg.selectAll(`rect.${color}`)
+          .data(bins)
+          .enter()
+          .append("rect")
+          .attr("class", color)
+          .attr("x", d => x(d.x0))
+          .attr("y", d => y(d.length))
+          .attr("width", d => x(d.x1) - x(d.x0) - 1)
+          .attr("height", d => height - y(d.length))
+          .style("fill", color)
+          .style("opacity", 0.6);
+      }
+
+      // 分别绘制各地区的直方图
+      plotHistogram(binsAsia, colors.Asia);
+      plotHistogram(binsEurope, colors.Europe);
+      plotHistogram(binsAmerica, colors.America);
+      plotHistogram(binsAfrica, colors.Africa);
+
+      // 添加图例
+      svg.append("circle").attr("cx", 600).attr("cy", 30).attr("r", 6).style("fill", colors.Asia);
+      svg.append("circle").attr("cx", 600).attr("cy", 60).attr("r", 6).style("fill", colors.Europe);
+      svg.append("circle").attr("cx", 600).attr("cy", 90).attr("r", 6).style("fill", colors.America);
+      svg.append("circle").attr("cx", 600).attr("cy", 120).attr("r", 6).style("fill", colors.Africa);
+
+      svg.append("text").attr("x", 620).attr("y", 30).text("Asia").style("font-size", "15px").attr("alignment-baseline", "middle");
+      svg.append("text").attr("x", 620).attr("y", 60).text("Europe").style("font-size", "15px").attr("alignment-baseline", "middle");
+      svg.append("text").attr("x", 620).attr("y", 90).text("Americas").style("font-size", "15px").attr("alignment-baseline", "middle");
+      svg.append("text").attr("x", 620).attr("y", 120).text("Africa").style("font-size", "15px").attr("alignment-baseline", "middle");
+    })
+    .catch(error => {
+      console.error('There was a problem with fetching one of the files:', error);
+    });
 }
