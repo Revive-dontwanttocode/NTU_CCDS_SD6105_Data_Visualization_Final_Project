@@ -464,10 +464,21 @@ export function RadarChart(id, radarData, options) {
   }
 
   // Set up SVG container
-  var svg = d3.select(id).append("svg")
+  let svg = d3.select(id).append("svg")
     .attr("width", cfg.w + cfg.margin.left + cfg.margin.right)
     .attr("height", cfg.h + cfg.margin.top + cfg.margin.bottom)
     .attr("class", "radar" + id);
+
+  // 添加标题
+  svg.append("text")
+    .attr("class", "title")
+    .attr("x", cfg.w - 100)
+    .attr("y", cfg.margin.top / 2)
+    .attr("text-anchor", "middle")
+    .style("font-size", "24px")
+    .style("font-weight", "bold")
+    .text("5 Countries Comparison Chart");
+
 
   var g = svg.append("g")
     .attr("transform", "translate(" + (cfg.w / 2 + cfg.margin.left) + "," + (cfg.h / 2 + cfg.margin.top) + ")");

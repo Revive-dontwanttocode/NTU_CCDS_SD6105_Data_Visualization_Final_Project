@@ -89,55 +89,6 @@ Promise.all([
         .style("opacity", 0);
     });
 
-  // // 设置 tooltip 提示
-  // var tooltip = d3.select("body").append("div")
-  //   .attr("class", "tooltip")
-  //   .style("opacity", 0);
-  //
-  // // 绘制地图
-  // var map = svg.append("g"); // 将地图放入一个分组内，便于缩放控制
-  // map.selectAll("path")
-  //   .data(topo.features)
-  //   .enter()
-  //   .append("path")
-  //   .attr("d", path)
-  //   .attr("fill", function (d) {
-  //     var gdp = gdpData.get(d.id) || 0;
-  //     return colorScale(gdp);
-  //   })
-  //   .style("stroke", "transparent")
-  //   .attr("class", "Country")
-  //   .style("opacity", .8)
-  //   .on("mouseover", function (event, d) {
-  //     d3.selectAll(".Country")
-  //       .transition()
-  //       .duration(200)
-  //       .style("opacity", .5);
-  //     d3.select(this)
-  //       .transition()
-  //       .duration(200)
-  //       .style("opacity", 1)
-  //       .style("stroke", "black");
-  //     tooltip.transition()
-  //       .duration(200)
-  //       .style("opacity", .9);
-  //     tooltip.html("Country: " + d.properties.name + "<br>GDP: " + (gdpData.get(d.id) || "N/A"))
-  //       .style("left", (event.pageX + 5) + "px")
-  //       .style("top", (event.pageY - 28) + "px");
-  //   })
-  //   .on("mouseleave", function (d) {
-  //     d3.selectAll(".Country")
-  //       .transition()
-  //       .duration(200)
-  //       .style("opacity", .8);
-  //     d3.select(this)
-  //       .transition()
-  //       .duration(200)
-  //       .style("stroke", "transparent");
-  //     tooltip.transition()
-  //       .duration(200)
-  //       .style("opacity", 0);
-  //   });
 
   // 添加图例
   var legendWidth = 300,
@@ -187,16 +138,6 @@ Promise.all([
     .style("text-anchor", "middle")
     .text("High GDP");
 
-  // 添加缩放功能，限制默认行为为缩放和平移
-  // svg.call(d3.zoom()
-  //   .scaleExtent([1, 8]) // 限制缩放比例
-  //   .on("zoom", function (event) {
-  //     map.attr("transform", event.transform); // 缩放和平移地图
-  //   })
-  //   .filter(function (event) { // 禁用旋转
-  //     return event.type === "wheel" || event.type === "mousedown" || event.type === "touchstart";
-  //   })
-  // );
 }).catch(function (error) {
   console.error('Error loading files:', error);
 });

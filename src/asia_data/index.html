@@ -32,18 +32,49 @@
 
 <div id="region_top10_barchart"></div>
 <div id="distribution_chart"></div>
+
 <div id="countries_radar_chart"></div>
+
+<div>
+  <label for="yearSelect">Choose Year:</label>
+  <select id="yearSelect">
+    <option value="1995">1995</option>
+    <option value="2005">2005</option>
+    <option value="2015">2015</option>
+    <option value="2019">2019</option>
+    <option value="2020">2020</option>
+    <option value="2021" selected>2021</option>
+  </select>
+</div>
 <div id="gdp_bubble_chart"></div>
+
+<div id="gdp_grouped_bar_chart"></div>
+
+<div id="top15_countries_gdp_per_capita"></div>
+
+<div id="top15_countries_gdp_rate"></div>
 
 </body>
 
 <script type="module">
-  import {initStackedBarChartAsia, initTop10Barchart, initDensityChart, initCountriesRadarChart, initBubbleChart} from './bundle.js'
+  import {
+    initStackedBarChartAsia,
+    initTop10Barchart,
+    initDensityChart,
+    initCountriesRadarChart,
+    initBubbleChart,
+    initGroupedBarChart,
+    initTop15PerBarchart,
+    initTop15GDPRateBarchart
+  } from './bundle.js'
 
   initStackedBarChartAsia();
   initTop10Barchart();
   initDensityChart();
   initCountriesRadarChart();
   initBubbleChart();
+  initGroupedBarChart();
+  initTop15PerBarchart();
+  initTop15GDPRateBarchart();
 </script>
 </html>
