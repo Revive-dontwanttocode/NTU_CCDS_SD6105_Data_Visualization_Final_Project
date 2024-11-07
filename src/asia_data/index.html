@@ -26,11 +26,19 @@
 
 <div id="region_stacked_barchart"></div>
 <div id="tooltip" class="tooltip"></div>
+
+<div id="region_top20_barchart"></div>
+<div id="region_top10_barchart"></div>
+<div id="distribution_chart"></div>
+<div id="countries_radar_chart"></div>
+
 </body>
 
 <script type="module">
-  import {initStackedBarChartAsia} from './bundle.js'
+  import {initStackedBarChartAsia, initTop20Barchart, initTop10Barchart, initDensityChart} from './bundle.js'
 
   initStackedBarChartAsia();
+  initTop10Barchart();
+  initDensityChart();
 </script>
 </html>

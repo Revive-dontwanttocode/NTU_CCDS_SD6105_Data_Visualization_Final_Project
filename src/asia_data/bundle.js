@@ -9,7 +9,7 @@ export function initStackedBarChartAsia() {
 
         // set the dimensions and margins of the graph
         const margin = {top: 150, right: 150, bottom: 150, left: 150},
-          width = 1100 - margin.left - margin.right,
+          width = 1500 - margin.left - margin.right,
           height = 850 - margin.top - margin.bottom;
 
 
@@ -169,4 +169,321 @@ export function initStackedBarChartAsia() {
         });
       }
     );
+}
+
+export function initTop20Barchart() {
+  const margin = {top: 100, right: 100, bottom: 100, left: 100};
+  const width = 1000 - margin.left - margin.right;
+  const height = 900 - margin.top - margin.bottom;
+
+  const svg = d3.select("#region_top20_barchart").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+    .attr("transform", `translate(${margin.left},${margin.top})`);
+
+
+  fetch('../../data/asia_country_gdp.json')
+    .then((response) => response.json())
+    .then((data) => {
+
+      let yearIndex = 0; // Start from the first year
+      const years = Array.from(new Set(data.map(d => d.Year))).sort();
+      // Create color scale for countries
+      const color = d3.scaleOrdinal(d3.schemeCategory10);
+
+      function update(year) {
+        // Filter top 10 GDP countries for the given year
+        const top10Data = data.filter(d => d.Year === year)
+          .sort((a, b) => b.Value - a.Value)
+          .slice(0, 10);
+
+        // Update scales
+        const x = d3.scaleLinear()
+          .domain([0, d3.max(top10Data, d => d.Value)])
+          .range([0, width]);
+        const y = d3.scaleBand()
+          .domain(top10Data.map(d => d.Country))
+          .range([0, height])
+          .padding(0.1);
+
+        // Bind data to bars
+        const bars = svg.selectAll(".bar")
+          .data(top10Data, d => d.Country);
+
+        // Enter new bars
+        bars.enter().append("rect")
+          .attr("class", "bar")
+          .attr("x", 0)
+          .attr("y", d => y(d.Country))
+          .attr("width", d => x(d.Value))
+          .attr("height", y.bandwidth())
+          .style("fill", d => color(d.Country))
+          .merge(bars) // Merge new and existing bars
+          .transition()
+          .duration(1000) // Smooth transition duration
+          .attr("y", d => y(d.Country)) // Update position
+          .attr("width", d => x(d.Value)); // Update width based on GDP
+
+        // Update text labels for GDP values
+        const labels = svg.selectAll(".label")
+          .data(top10Data, d => d.Country);
+
+        labels.enter().append("text")
+          .attr("class", "label")
+          .attr("x", d => x(d.Value) - 5)
+          .attr("y", d => y(d.Country) + y.bandwidth() / 2 + 5)
+          .attr("text-anchor", "end")
+          .text(d => d.Value)
+          .merge(labels)
+          .transition()
+          .duration(1000)
+          .attr("x", d => x(d.Value) - 5)
+          .attr("y", d => y(d.Country) + y.bandwidth() / 2 + 5)
+          .text(d => d.Value);
+
+        // Exit old bars and labels
+        bars.exit().remove();
+        labels.exit().remove();
+
+        // Update the year label
+        svg.selectAll(".year").remove();
+        svg.append("text")
+          .attr("class", "year")
+          .attr("x", width - 50)
+          .attr("y", height - 20)
+          .style("font-size", "40px")
+          .style("fill", "#333")
+          .text(year);
+      }
+
+// Update chart every second
+      d3.interval(() => {
+        update(years[yearIndex]);
+        yearIndex = (yearIndex + 1) % years.length; // Loop through years
+      }, 1000);
+    })
+}
+
+export function initTop10Barchart() {
+  fetch('../../data/asia_country_gdp.json')
+    .then((response) => response.json())
+    .then((data) => {
+      const filteredData = data.filter(d => d.Series === "GDP in current prices (millions of US dollars)");
+
+      const margin = {top: 100, right: 100, bottom: 100, left: 100};
+      const width = 1500 - margin.left - margin.right;
+      const height = 900 - margin.top - margin.bottom;
+
+      const svg = d3.select("#region_top10_barchart").append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", `translate(${margin.left},${margin.top})`);
+
+      // 添加标题
+      svg.append("text")
+        .attr("class", "title")
+        .attr("x", width / 2)
+        .attr("y", margin.top / 2)
+        .attr("text-anchor", "middle")
+        .style("font-size", "24px")
+        .style("font-weight", "bold")
+        .text("Top 15 Asia Countries/Regions by GDP from 1995 to 2021");
+
+      // 动态年份显示
+      const yearLabel = svg.append("text")
+        .attr("class", "year")
+        .attr("x", width - 50)  // 将年份放在右上角
+        .attr("y", margin.top)
+        .attr("text-anchor", "end")
+        .style("font-size", "20px")
+        .style("font-weight", "bold");
+
+      const topCountries = 15;
+      const barSize = 40;
+
+
+      // 数据处理，按年份分组并排序，生成 keyframes
+      const groupedData = d3.group(filteredData, d => d.Year);
+
+      const keyframes = Array.from(groupedData, ([year, yearData]) => {
+        const sortedData = yearData.sort((a, b) => d3.descending(a.Value, b.Value)).slice(0, topCountries);
+        return [new Date(year, 0, 1), sortedData.map(d => ({name: d.Country, value: d.Value}))];
+      });
+
+      // 定义 x 和 y 轴
+      const x = d3.scaleLinear([0, d3.max(data, d => d.Value)], [margin.left, width - margin.right]);
+      const y = d3.scaleBand()
+        .domain(d3.range(topCountries))
+        .range([margin.top, height - margin.bottom])
+        .padding(0.1);
+
+      const customColors = [
+        "#e41a1c", "#377eb8", "#4daf4a", "#984ea3", "#ff7f00",
+        "#ffff33", "#a65628", "#f781bf", "#999999", "#66c2a5",
+        "#fc8d62", "#8da0cb", "#e78ac3", "#a6d854", "#ffd92f",
+      ];
+
+      // 创建一个颜色映射，将每个国家名称映射到一个更丰富的颜色集合
+      const color = d3.scaleOrdinal()
+        .domain(data.map(d => d.Country)) // 设置国家名称作为颜色域
+        .range(customColors); // 使用更丰富的配色方案
+
+
+      // 绘制 X 轴
+      const xAxis = svg.append("g")
+        .attr("transform", `translate(0,${height - margin.bottom})`)
+        .call(d3.axisBottom(x).ticks(width / 100).tickSizeOuter(0));
+
+      // 绘制 Y 轴
+      const yAxis = svg.append("g")
+        .attr("transform", `translate(${margin.left},0)`);
+
+      // 动态条形图函数
+      function bars(svg) {
+        let bar = svg.append("g")
+          .attr("fill-opacity", 0.8)
+          .selectAll("rect");
+
+        // 标签部分
+        let label = svg.append("g")
+          .style("font", "12px sans-serif")
+          .style("font-variant-numeric", "tabular-nums")
+          .attr("text-anchor", "start")
+          .selectAll("text");
+
+        return ([date, data], transition) => {
+          bar = bar
+            .data(data, d => d.name)
+            .join(
+              enter => enter.append("rect")
+                .attr("fill", d => color(d.name))
+                .attr("height", y.bandwidth())
+                .attr("x", x(0))
+                .attr("y", (d, i) => y(i))
+                .attr("width", d => x(d.value) - x(0)),
+              update => update,
+              exit => exit.transition(transition).remove()
+            )
+            .call(bar => bar.transition(transition)
+              .attr("y", (d, i) => y(i))
+              .attr("width", d => x(d.value) - x(0)));
+
+          // 更新 X 轴
+          xAxis.transition(transition).call(d3.axisBottom(x).ticks(width / 100));
+
+          // 更新 Y 轴标签
+          yAxis.transition(transition)
+            .call(d3.axisLeft(y).tickFormat(i => data[i]?.name).tickSizeOuter(0));
+
+          // 更新年份信息
+          yearLabel.text(date.getFullYear());
+
+          // 更新标签（显示国家和动态 GDP 值，分为两行）
+          label = label
+            .data(data, d => d.name)
+            .join(
+              enter => enter.append("text")
+                .attr("transform", (d, i) => `translate(${x(d.value)},${y(i) + y.bandwidth() / 2})`)
+                .attr("dy", "0.35em")
+                .attr("x", 6)  // 与条形图末尾对齐
+                .call(text => text.append("tspan")
+                  .style("font-weight", "bold")
+                  .attr("x", 6)
+                  .attr("dy", "-0.5em")  // 上移以分两行显示
+                  .text(d => d.name))
+                .call(text => text.append("tspan")
+                  .attr("x", 6)
+                  .attr("dy", "1.2em")  // 下移显示 GDP 值
+                  .text(d => d.value.toFixed(0))),
+              update => update,
+              exit => exit.transition(transition).remove()
+            )
+            .call(label => label.transition(transition)
+              .attr("transform", (d, i) => `translate(${x(d.value)},${y(i) + y.bandwidth() / 2})`)
+              .call(text => text.select("tspan:nth-child(2)")
+                .tween("text", function (d) {
+                  const i = d3.interpolateRound(this.textContent, d.value);
+                  return t => this.textContent = i(t);
+                })
+              )
+            );
+        };
+      }
+
+      // 调用条形图绘制函数
+      const updateBars = bars(svg);
+
+      // 动画展示
+      async function animateChart() {
+        for (const keyframe of keyframes) {
+          const transition = svg.transition().duration(2000).ease(d3.easeLinear);
+
+          x.domain([0, d3.max(keyframe[1], d => d.value)]);
+
+          updateBars(keyframe, transition);
+
+          await transition.end();
+        }
+      }
+
+      animateChart();
+    })
+}
+
+export function initDensityChart() {
+  fetch('../../data/asia_country_gdp.json')
+    .then((response) => response.json())
+    .then((data) => {
+      const margin = {top: 100, right: 200, bottom: 100, left: 200};
+      const width = 1000 - margin.left - margin.right;
+      const height = 1000 - margin.top - margin.bottom;
+
+      let svg = d3.select("#distribution_chart")
+        .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+      // 筛选出 "GDP per capita (US dollars)" 数据
+      const filteredData = data.filter(d => d.Series === "GDP per capita (US dollars)" && d.Year === 2021);
+
+      // 创建一个颜色映射，将每个国家名称映射到一个更丰富的颜色集合
+      const color = d3.scaleOrdinal()
+        .domain(filteredData.map(d => d.Country)) // 设置国家名称作为颜色域
+        .range(d3.schemeCategory10); // 使用更丰富的配色方案
+
+      // Y轴：使用 scaleBand 设置国家名称
+      let y = d3.scaleBand()
+        .domain(filteredData.map(function(d) { return d.Country; })) // 设置 Y 轴为国家名称
+        .range([0, height])
+        .padding(0.1);  // 适当的间距
+      svg.append("g")
+        .call(d3.axisLeft(y));
+
+      // X轴：线性比例尺，范围从GDP的最小值到最大值
+      let x = d3.scaleLinear()
+        .domain([d3.min(filteredData, function(d) { return +d.Value; }), d3.max(filteredData, function(d) { return +d.Value; })])
+        .range([0, width]);
+      svg.append("g")
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(x));
+
+      // 绘制水平条形图
+      svg.selectAll("rect")
+        .data(data)
+        .enter()
+        .append("rect")
+        .attr("y", function(d) { return y(d.Country); }) // 确保 y 位置使用正确的比例尺
+        .attr("x", x(0)) // 从0开始绘制
+        .attr("width", function(d) { return x(d.Value); })
+        .attr("height", y.bandwidth())
+        .style("fill", function(d) { return color(d.Country); });
+    })
+}
+
+export function initCountriesRadarChart() {
+
 }
