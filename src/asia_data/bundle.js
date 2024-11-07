@@ -548,7 +548,7 @@ export function initCountriesRadarChart() {
             };
           });
 
-          radarData.push({country: country, data: countryData });
+          radarData.push(countryData);
         });
 
         return radarData;
