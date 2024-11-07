@@ -752,3 +752,438 @@ export function initCountriesRadarChart() {
       RadarChart("#countries_radar_chart", transformedData, radarChartOptions);
     })
 }
+
+// export function initBubbleChart() {
+//   let margin = {top: 100, right: 100, bottom: 100, left: 100},
+//     width = 1000 - margin.left - margin.right,
+//     height = 800 - margin.top - margin.bottom;
+//
+//   // append the svg object to the body of the page
+//   let svg = d3.select("#gdp_bubble_chart")
+//     .append("svg")
+//     .attr("width", width + margin.left + margin.right)
+//     .attr("height", height + margin.top + margin.bottom)
+//     .append("g")
+//     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+//
+//   // load data
+//   fetch('../../data/asia_country_gdp.json')
+//     .then(response => response.json())
+//     .then((data) => {
+//       // ---------------------------//
+//       //       AXIS AND SCALE       //
+//       // ---------------------------//
+//
+//       let filteredData = data.filter(d => d.Year === 2021);
+//
+//       // X-axis: GDP in constant 2015 prices
+//       var x = d3.scaleLinear()
+//         .domain([0, d3.max(filteredData, d => d.Series === "GDP in constant 2015 prices (millions of US dollars)" ? +d.Value : 0)])
+//         .range([0, width]);
+//       svg.append("g")
+//         .attr("transform", "translate(0," + height + ")")
+//         .call(d3.axisBottom(x));
+//
+//       // X-axis label
+//       svg.append("text")
+//         .attr("text-anchor", "end")
+//         .attr("x", width)
+//         .attr("y", height + 50)
+//         .text("GDP in constant 2015 prices (millions of US dollars)");
+//
+//       // Y-axis: GDP per capita
+//       var y = d3.scaleLinear()
+//         .domain([0, d3.max(filteredData, d => d.Series === "GDP per capita (US dollars)" ? +d.Value : 0)])
+//         .range([height, 0]);
+//       svg.append("g")
+//         .call(d3.axisLeft(y));
+//
+//       // Y-axis label
+//       svg.append("text")
+//         .attr("text-anchor", "end")
+//         .attr("x", 0)
+//         .attr("y", -20)
+//         .text("GDP per capita (US dollars)")
+//         .attr("text-anchor", "start");
+//
+//       // Bubble size scale: GDP real rates of growth
+//       var z = d3.scaleSqrt()
+//         .domain([0, d3.max(filteredData, d => d.Series === "GDP real rates of growth (percent)" ? +d.Value : 0)])
+//         .range([2, 30]);
+//
+//       // Color scale for each country
+//       var color = d3.scaleOrdinal(d3.schemeCategory10);
+//
+//       // Filter data for each series
+//       const gdpData = filteredData.filter(d => d.Series === "GDP in constant 2015 prices (millions of US dollars)");
+//       const perCapitaData = filteredData.filter(d => d.Series === "GDP per capita (US dollars)");
+//       const growthRateData = filteredData.filter(d => d.Series === "GDP real rates of growth (percent)");
+//
+//       // Prepare data for visualization
+//       const processedData = gdpData.map(d => {
+//         const country = d.Country;
+//         const gdpValue = +d.Value;
+//         const perCapitaValue = perCapitaData.find(p => p.Country === country)?.Value || 0;
+//         const growthRate = growthRateData.find(g => g.Country === country)?.Value || 0;
+//         return {country, gdpValue, perCapitaValue, growthRate};
+//       });
+//
+//       // Tooltip
+//       var tooltip = d3.select("#my_dataviz")
+//         .append("div")
+//         .style("opacity", 0)
+//         .attr("class", "tooltip")
+//         .style("background-color", "black")
+//         .style("border-radius", "5px")
+//         .style("padding", "10px")
+//         .style("color", "white");
+//
+//       var showTooltip = function (d) {
+//         tooltip.transition().duration(200);
+//         tooltip
+//           .style("opacity", 1)
+//           .html("Country: " + d.country + "<br>GDP: " + d.gdpValue + "<br>Per Capita: " + d.perCapitaValue)
+//           .style("left", (d3.event.pageX + 30) + "px")
+//           .style("top", (d3.event.pageY + 30) + "px");
+//       };
+//
+//       var moveTooltip = function () {
+//         tooltip
+//           .style("left", (d3.event.pageX + 30) + "px")
+//           .style("top", (d3.event.pageY + 30) + "px");
+//       };
+//
+//       var hideTooltip = function () {
+//         tooltip.transition().duration(200).style("opacity", 0);
+//       };
+//
+//       // Plot bubbles
+//       svg.append('g')
+//         .selectAll("circle")
+//         .data(processedData)
+//         .enter()
+//         .append("circle")
+//         .attr("cx", d => x(d.gdpValue))
+//         .attr("cy", d => y(d.perCapitaValue))
+//         .attr("r", d => z(d.growthRate))
+//         .style("fill", d => color(d.country))
+//         .on("mouseover", showTooltip)
+//         .on("mousemove", moveTooltip)
+//         .on("mouseleave", hideTooltip);
+//
+//       // Legend
+//       const legend = svg.selectAll(".legend")
+//         .data(processedData.map(d => d.country).filter((v, i, self) => self.indexOf(v) === i))
+//         .enter().append("g")
+//         .attr("class", "legend")
+//         .attr("transform", (d, i) => "translate(0," + i * 20 + ")");
+//
+//       legend.append("circle")
+//         .attr("cx", width + 20)
+//         .attr("r", 6)
+//         .style("fill", d => color(d));
+//
+//       legend.append("text")
+//         .attr("x", width + 30)
+//         .attr("y", 6)
+//         .text(d => d)
+//         .attr("text-anchor", "start")
+//         .style("alignment-baseline", "middle");
+//     })
+// }
+
+// export function initBubbleChart() {
+//   let margin = {top: 100, right: 100, bottom: 100, left: 100},
+//     width = 1600 - margin.left - margin.right,
+//     height = 800 - margin.top - margin.bottom;
+//
+//   function zoomed(event) {
+//     const newX = event.transform.rescaleX(x);
+//     xAxis.call(d3.axisBottom(newX).ticks(5));
+//     bubbles.attr("cx", d => newX(d.growthRate));
+//   }
+//
+//   // Initialize the zoom behavior
+//   const zoom = d3.zoom()
+//     .scaleExtent([1, 10]) // Set zoom limits
+//     .extent([[0, 0], [width, height]])
+//     .on("zoom", zoomed);
+//
+//   // append the svg object to the body of the page
+//   let svg = d3.select("#gdp_bubble_chart")
+//     .append("svg")
+//     .attr("width", width + margin.left + margin.right)
+//     .attr("height", height + margin.top + margin.bottom)
+//     .append("g")
+//     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+//
+//   // load data
+//   fetch('../../data/asia_country_gdp.json')
+//     .then(response => response.json())
+//     .then((data) => {
+//       // Filter data for the specific year
+//       let filteredData = data.filter(d => d.Year === 2021);
+//
+// // X-axis: GDP real rates of growth (percent), allowing negative values and adding space
+//       var x = d3.scaleLinear()
+//         .domain([
+//           d3.min(filteredData, d => d.Series === "GDP real rates of growth (percent)" ? +d.Value : 0) * 1.1,
+//           d3.max(filteredData, d => d.Series === "GDP real rates of growth (percent)" ? +d.Value : 0) * 1.1
+//         ])
+//         .range([0, width]);
+//       svg.append("g")
+//         .attr("transform", "translate(0," + height + ")")
+//         .call(d3.axisBottom(x).ticks(5));  // Adjusted to increase tick spacing
+//
+//       // X-axis label
+//       svg.append("text")
+//         .attr("text-anchor", "end")
+//         .attr("x", width)
+//         .attr("y", height + 50)
+//         .text("GDP real rates of growth (percent)");
+//
+//
+//       // Y-axis: GDP in constant 2015 prices (millions of US dollars)
+//       var y = d3.scaleLinear()
+//         .domain([0, d3.max(filteredData, d => d.Series === "GDP in constant 2015 prices (millions of US dollars)" ? +d.Value : 0) * 1.1])
+//         .range([height, 0]);
+//
+//       // Position Y-axis to start from where X=0 on the X-axis
+//       svg.append("g")
+//         .attr("transform", "translate(" + x(0) + ",0)") // Y-axis starts at x=0
+//         .call(d3.axisLeft(y).ticks(10));
+//
+//       // Y-axis label
+//       svg.append("text")
+//         .attr("text-anchor", "end")
+//         .attr("x", 0)
+//         .attr("y", -20)
+//         .text("GDP in constant 2015 prices (millions of US dollars)")
+//         .attr("text-anchor", "start");
+//
+//       // Bubble size scale: GDP per capita (US dollars)
+//       var z = d3.scaleSqrt()
+//         .domain([0, d3.max(filteredData, d => d.Series === "GDP per capita (US dollars)" ? +d.Value : 0)])
+//         .range([2, 30]);
+//
+//       // Color scale for each country
+//       var color = d3.scaleOrdinal(d3.schemeCategory10);
+//
+//       // Filter data for each series
+//       const growthRateData = filteredData.filter(d => d.Series === "GDP real rates of growth (percent)");
+//       const gdpData = filteredData.filter(d => d.Series === "GDP in constant 2015 prices (millions of US dollars)");
+//       const perCapitaData = filteredData.filter(d => d.Series === "GDP per capita (US dollars)");
+//
+//       // Prepare data for visualization
+//       const processedData = gdpData.map(d => {
+//         const country = d.Country;
+//         const gdpValue = +d.Value;
+//         const growthRate = growthRateData.find(g => g.Country === country)?.Value || 0;
+//         const perCapitaValue = perCapitaData.find(p => p.Country === country)?.Value || 0;
+//         return {country, gdpValue, growthRate, perCapitaValue};
+//       });
+//
+//       // Tooltip
+//       var tooltip = d3.select("#gdp_bubble_chart")
+//         .append("div")
+//         .style("opacity", 0)
+//         .attr("class", "tooltip")
+//         .style("background-color", "black")
+//         .style("border-radius", "5px")
+//         .style("padding", "10px")
+//         .style("color", "white");
+//
+//       var showTooltip = function (event, d) {
+//         tooltip.transition().duration(200);
+//         tooltip
+//           .style("opacity", 1)
+//           .html("Country: " + d.country + "<br>GDP: " + d.gdpValue + "<br>Per Capita: " + d.perCapitaValue + "<br>Growth Rate: " + d.growthRate)
+//           .style("left", (event.pageX + 10) + "px")  // Offset tooltip to the right
+//           .style("top", (event.pageY - 30) + "px");  // Offset tooltip slightly upwards
+//       };
+//
+//       var moveTooltip = function (event) {
+//         tooltip
+//           .style("left", (event.pageX + 10) + "px")
+//           .style("top", (event.pageY - 30) + "px");
+//       };
+//
+//       var hideTooltip = function () {
+//         tooltip.transition().duration(200).style("opacity", 0);
+//       };
+//
+//       // Plot bubbles
+//       svg.append('g')
+//         .selectAll("circle")
+//         .data(processedData)
+//         .enter()
+//         .append("circle")
+//         .attr("cx", d => x(d.growthRate))
+//         .attr("cy", d => y(d.gdpValue))
+//         .attr("r", d => Math.max(0, z(d.perCapitaValue) || 0)) // Ensure non-negative radius
+//         .style("fill", d => color(d.country))
+//         .style("opacity", 0.7) // Slight transparency to improve visibility
+//         .on("mouseover", (event, d) => showTooltip(event, d))
+//         .on("mousemove", (event) => moveTooltip(event))
+//         .on("mouseleave", hideTooltip);
+//
+//       // Apply zoom to the SVG
+//       svg.call(zoom);
+//
+//       // Zoom function
+//       function zoomed(event) {
+//         // Rescale the x-axis range based on zoom
+//         const newX = event.transform.rescaleX(x);
+//
+//         // Update X-axis
+//         xAxis.call(d3.axisBottom(newX).ticks(5));
+//
+//         // Update bubbles' position on X-axis based on zoom
+//         bubbles.attr("cx", d => newX(d.growthRate));
+//       }
+//     });
+// }
+
+
+export function initBubbleChart() {
+  let margin = {top: 100, right: 100, bottom: 100, left: 100},
+    width = 1500 - margin.left - margin.right,
+    height = 800 - margin.top - margin.bottom;
+
+  // append the svg object to the body of the page
+  let svg = d3.select("#gdp_bubble_chart")
+    .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  // Define the zoomed function before applying it
+  function zoomed(event) {
+    const newX = event.transform.rescaleX(x);
+    xAxis.call(d3.axisBottom(newX).ticks(5));
+    bubbles.attr("cx", d => newX(d.growthRate));
+  }
+
+  // Initialize the zoom behavior
+  const zoom = d3.zoom()
+    .scaleExtent([1, 10]) // Set zoom limits
+    .extent([[0, 0], [width, height]])
+    .on("zoom", zoomed);
+
+  // load data
+  fetch('../../data/asia_country_gdp.json')
+    .then(response => response.json())
+    .then((data) => {
+      // Filter data for the specific year
+      let filteredData = data.filter(d => d.Year === 2021);
+
+      // X-axis: GDP real rates of growth (percent) with a power scale for more detail at smaller values
+      var x = d3.scalePow()
+        .exponent(0.5) // Square root scale for more compression on larger values
+        .domain([
+          d3.min(filteredData, d => d.Series === "GDP real rates of growth (percent)" ? +d.Value : 0),
+          d3.max(filteredData, d => d.Series === "GDP real rates of growth (percent)" ? +d.Value : 0) * 1.1
+        ])
+        .range([0, width]);
+
+      // Add the X-axis
+      const xAxis = svg.append("g")
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(x).ticks(5)); // Adjusted to increase tick spacing
+
+      // X-axis label
+      svg.append("text")
+        .attr("text-anchor", "end")
+        .attr("x", width)
+        .attr("y", height + 50)
+        .text("GDP real rates of growth (percent)");
+
+      // Y-axis: GDP in constant 2015 prices (millions of US dollars)
+      var y = d3.scaleLinear()
+        .domain([0, d3.max(filteredData, d => d.Series === "GDP in constant 2015 prices (millions of US dollars)" ? +d.Value : 0) * 1.1])
+        .range([height, 0]);
+
+      // Position Y-axis to start from where X=0 on the X-axis
+      const yAxis = svg.append("g")
+        .attr("transform", "translate(" + x(0) + ",0)")
+        .call(d3.axisLeft(y).ticks(10));
+
+      // Y-axis label
+      svg.append("text")
+        .attr("text-anchor", "end")
+        .attr("x", 0)
+        .attr("y", -20)
+        .text("GDP in constant 2015 prices (millions of US dollars)")
+        .attr("text-anchor", "start");
+
+      // Bubble size scale: GDP per capita (US dollars)
+      var z = d3.scaleSqrt()
+        .domain([0, d3.max(filteredData, d => d.Series === "GDP per capita (US dollars)" ? +d.Value : 0)])
+        .range([2, 30]);
+
+      // Color scale for each country
+      var color = d3.scaleOrdinal(d3.schemeCategory10);
+
+      // Filter data for each series
+      const growthRateData = filteredData.filter(d => d.Series === "GDP real rates of growth (percent)");
+      const gdpData = filteredData.filter(d => d.Series === "GDP in constant 2015 prices (millions of US dollars)");
+      const perCapitaData = filteredData.filter(d => d.Series === "GDP per capita (US dollars)");
+
+      // Prepare data for visualization
+      const processedData = gdpData.map(d => {
+        const country = d.Country;
+        const gdpValue = +d.Value;
+        const growthRate = growthRateData.find(g => g.Country === country)?.Value || 0;
+        const perCapitaValue = perCapitaData.find(p => p.Country === country)?.Value || 0;
+        return {country, gdpValue, growthRate, perCapitaValue};
+      });
+
+      // Tooltip
+      var tooltip = d3.select("#gdp_bubble_chart")
+        .append("div")
+        .style("opacity", 0)
+        .attr("class", "tooltip")
+        .style("background-color", "black")
+        .style("border-radius", "5px")
+        .style("padding", "10px")
+        .style("color", "white");
+
+      var showTooltip = function (event, d) {
+        tooltip.transition().duration(200);
+        tooltip
+          .style("opacity", 1)
+          .html("Country: " + d.country + "<br>GDP: " + d.gdpValue + "<br>Per Capita: " + d.perCapitaValue + "<br>Growth Rate: " + d.growthRate)
+          .style("left", (event.pageX + 10) + "px")  // Offset tooltip to the right
+          .style("top", (event.pageY - 30) + "px");  // Offset tooltip slightly upwards
+      };
+
+      var moveTooltip = function (event) {
+        tooltip
+          .style("left", (event.pageX + 10) + "px")
+          .style("top", (event.pageY - 30) + "px");
+      };
+
+      var hideTooltip = function () {
+        tooltip.transition().duration(200).style("opacity", 0);
+      };
+
+      // Plot bubbles
+      const bubbles = svg.append('g')
+        .selectAll("circle")
+        .data(processedData)
+        .enter()
+        .append("circle")
+        .attr("cx", d => x(d.growthRate))
+        .attr("cy", d => y(d.gdpValue))
+        .attr("r", d => Math.max(0, z(d.perCapitaValue) || 0)) // Ensure non-negative radius
+        .style("fill", d => color(d.country))
+        .style("opacity", 0.7) // Slight transparency to improve visibility
+        .on("mouseover", (event, d) => showTooltip(event, d))
+        .on("mousemove", (event) => moveTooltip(event))
+        .on("mouseleave", hideTooltip);
+
+      // Apply zoom to the SVG
+      svg.call(zoom);
+    });
+}
